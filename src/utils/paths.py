@@ -8,9 +8,9 @@ def get_project_root(marker_file='README.md'):
     for parent in [current] + list(current.parents):
         if (parent / marker_file).exists():
             return parent
-    raise FileNotFoundError(f'Could not find project root with marker '{marker_file} from {current})
+    raise FileNotFoundError(f'Could not find project root with marker {marker_file} from {current}')
 
-def get_data_raw_path()
+def get_data_raw_path():
     """ Returns the path to the raw data directory """
     return get_project_root() / 'data' / 'raw'
 
