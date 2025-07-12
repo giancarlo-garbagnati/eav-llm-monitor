@@ -67,7 +67,11 @@ if __name__ == "__main__":
     
     timestamp = datetime.now().strftime(data_datetime_fmt)
     filename = paths.get_data_raw_path() / f'reddit_raw_{timestamp}.csv'
-    df.to_csv(filename, index=False)
+    if len(df) > 0:
+        df.to_csv(filename, index=False)
     print('Reddit finished scraping')
     print(f'{timestamp}')
-    print(f'{len(df)} results, saved as {filename}')
+    if len(df) > 0:
+        print(f'{len(df)} results, saved as {filename}')
+    else:
+        print(f'{len(df)} results, not saved')
