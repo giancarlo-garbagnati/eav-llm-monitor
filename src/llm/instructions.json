@@ -10,48 +10,48 @@
             "Rate the severity of the issue as one of: 'Low', 'Medium', or 'High'.",
             "Indicate whether the post describes a firsthand account (the author directly experienced the issue).",
             "Return all results in the following strict JSON format: {\"is_rivian\": \"Yes|No\", \"is_issue\": \"Yes|No\", \"system\": \"<system>\", \"severity\": \"Low|Medium|High\", \"firsthand\": \"Yes|No\"}",
-            "Do not add any explanation, markdown formatting, or commentary—return only the JSON object."
+            "Do not add any explanation, markdown formatting, or commentary - return only the JSON object."
         ],
         
         "examples": [
             {
-            "user_query": "Post: 'My Rivian R1T lost power while driving on the highway. This is the third time this month.'",
+            "user_query": "'My Rivian R1T lost power while driving on the highway. This is the third time this month.'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"Yes\", \"system\": \"battery\", \"severity\": \"High\", \"firsthand\": \"Yes\"}"
             },
             {
-            "user_query": "Post: 'I heard someone mention that their friend's Rivian app crashed again, not sure if it’s widespread.'",
+            "user_query": "'I heard someone mention that their friend's Rivian app crashed again, not sure if it's widespread.'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"Yes\", \"system\": \"infotainment\", \"severity\": \"Low\", \"firsthand\": \"No\"}"
             },
             {
-            "user_query": "Post: 'Tesla just announced a new range update! Might make Rivian nervous.'",
+            "user_query": "'Tesla just announced a new range update! Might make Rivian nervous.'",
             "assistant_response": "{\"is_rivian\": \"No\", \"is_issue\": \"No\", \"system\": \"unknown\", \"severity\": \"Low\", \"firsthand\": \"No\"}"
             },
             {
-            "user_query": "Post: 'My R1S screen froze again while reversing—thankfully nothing was behind me. Anyone else?'",
+            "user_query": "'My R1S screen froze again while reversing - thankfully nothing was behind me. Anyone else?'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"Yes\", \"system\": \"infotainment\", \"severity\": \"Medium\", \"firsthand\": \"Yes\"}"
             },
             {
-            "user_query": "Post: 'Love my Rivian so far! Just wish the regen braking felt smoother on downhills.'",
+            "user_query": "'Love my Rivian so far! Just wish the regen braking felt smoother on downhills.'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"Yes\", \"system\": \"brakes\", \"severity\": \"Low\", \"firsthand\": \"Yes\"}"
             },
             {
-            "user_query": "Post: 'A friend of mine said his R1T’s suspension collapsed going over a pothole. That’s terrifying.'",
+            "user_query": "'A friend of mine said his R1T's suspension collapsed going over a pothole. That's terrifying.'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"Yes\", \"system\": \"suspension\", \"severity\": \"High\", \"firsthand\": \"No\"}"
             },
             {
-            "user_query": "Post: 'Does anyone know if the recent software update improved the charging station compatibility?'",
+            "user_query": "'Does anyone know if the recent software update improved the charging station compatibility?'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"No\", \"system\": \"charging\", \"severity\": \"Low\", \"firsthand\": \"No\"}"
             },
             {
-            "user_query": "Post: 'After two months with the R1S, I’ve had no major issues. Range holds up even in the cold!'",
+            "user_query": "'After two months with the R1S, I've had no major issues. Range holds up even in the cold!'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"No\", \"system\": \"unknown\", \"severity\": \"Low\", \"firsthand\": \"Yes\"}"
             },
             {
-            "user_query": "Post: 'The frunk on my R1T won't latch properly anymore. Minor thing, but annoying.'",
+            "user_query": "'The frunk on my R1T won't latch properly anymore. Minor thing, but annoying.'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"Yes\", \"system\": \"unknown\", \"severity\": \"Low\", \"firsthand\": \"Yes\"}"
             },
             {
-            "user_query": "Post: 'I’m researching EVs—Tesla vs Rivian vs Ford. Reliability is a big factor for me.'",
+            "user_query": "'I'm researching EVs - Tesla vs Rivian vs Ford. Reliability is a big factor for me.'",
             "assistant_response": "{\"is_rivian\": \"Yes\", \"is_issue\": \"No\", \"system\": \"unknown\", \"severity\": \"Low\", \"firsthand\": \"No\"}"
             }
         ]
