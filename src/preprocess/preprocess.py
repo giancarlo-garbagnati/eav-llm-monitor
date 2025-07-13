@@ -36,7 +36,7 @@ def preprocess_reddit_raw(csvs):
             preprocessed = pd.concat([preprocessed, df])
 
     if data_processed:
-        save_uri = paths.get_data_processed_path() / max(csvs).replace('raw', 'preprocessed')
+        save_uri = paths.get_data_raw_path() / max(csvs).replace('raw', 'preprocessed')
         preprocessed.to_csv(save_uri, index=False)
     
     return data_processed
@@ -45,21 +45,21 @@ def preprocess_reddit_raw(csvs):
 if __name__ == "__main__":
 
     # get last processed csv and preprocess all csvs after
-    last_processed_uri = paths.get_project_root() / 'src' / 'preprocess' / 'last_processed.json'
-    last_processed = io_utils.read_json(last_processed_uri)
+    last_preprocessed_uri = paths.get_project_root() / 'src' / 'preprocess' / 'last_preprocessed.json'
+    last_preprocessed = io_utils.read_json(last_preprocessed_uri)
 
-    if 'reddit' not in last_processed.keys():
-        last_processed['reddit'] = ''
+    if 'reddit' not in last_preprocessed.keys():
+        last_preprocessed['reddit'] = ''
     
     csvs = [csv for csv in os.listdir(paths.get_data_raw_path()) if 'reddit_raw' in csv]
     
-    if (last_processed['reddit'] != '') and (last_processed['reddit'] in csvs):
-        csvs = csvs[csvs.index(last_processed['reddit']) + 1:]
+    if (last_preprocessed['reddit'] != '') and (last_preprocessed['reddit'] in csvs):
+        csvs = csvs[csvs.index(last_preprocessed['reddit']) + 1:]
 
     data_processed = preprocess_reddit_raw(csvs)
 
-    # update last_processed.json
+    # update last_preprocessed.json
     if data_processed:
-        last_processed['reddit'] = max(csvs)
-        io_utils.write_json(last_processed, last_processed_uri)
+        last_preprocessed['reddit'] = max(csvs)
+        io_utils.write_json(last_preprocessed, last_preprocessed_uri)
     
