@@ -1,0 +1,897 @@
+subreddit,title,selftext,score,created_utc,url,permalink
+rivian,Test Drive,"With the Federal EV rebates about to end, I wanted to take a look at some EV options. I sat in/looked at an R1T, and test drove an R1S.
+
+One of my biggest issues was how squeaky everything seemed. The door handles made noises when they opened and closed. The doors made noises when they opened and closed. There was considerable noise when the A/C was running. Is this common?",1,2025-07-13 01:20:00,https://www.reddit.com/r/Rivian/comments/1lynok2/test_drive/,https://www.reddit.com/r/Rivian/comments/1lynok2/test_drive/
+rivian,"Lies, delays and insults. Waiting over a year for my tonneau cover.","When I bought my 2024 R1T last summer I was told that tonneau covers were not available yet but they'd contact me in a few weeks to schedule an installation. Weeks turned to months and no contact so I called and was told ""for sure by end of year"". That came and went with no word from Rivian.
+
+A couple months later I had a recall on my R1S and asked the service rep about the tonneau covers and he said they were getting some in but not scheduling new installs so ali waited more.
+
+Finally in June I decided to try again so I opened a service ticket and was told they're in and ready to install. Booked!
+
+A couple weeks later I get a call asking to clarify what the issue is with my tonneau cover. I was confused and clarified that I'm trying to get one installed. Rep replied: ""Oh we're not doing those"". WTF. They didn't seem to understand that this wasn't a new order, it was for listed feature when I bought the truck. Several more back and forth calls to get that cleared up and I'm told that they're still not available and they have no ETA. Rep even added:""I don't think they're doing those at all anymore for 2024s."" 
+
+I was offered a ""manual soft cover that you can install yourself"" instead.
+So a tarp? ""Pretty much.""
+Then they closed my ticket with no resolution.
+
+Had anyone who took delivery with the promise of a future powered tonneau cover actually had one installed? I have a friend who's truck was delivered with it installed already so this feels like a personal FU to me.",16,2025-07-12 17:51:46,https://www.reddit.com/r/Rivian/comments/1lyfwe4/lies_delays_and_insults_waiting_over_a_year_for/,https://www.reddit.com/r/Rivian/comments/1lyfwe4/lies_delays_and_insults_waiting_over_a_year_for/
+rivian,Charging on the road?,"I take a lot of road trips in the Southwest where charging is much sparser than anywhere else. The EA chargers seem to be the best non Tesla and they are finicky and bad by comparison. About 50% of the time they will not connect to my R1S unless I call the help number and they do it from their end. And I have an EA membership, the app, and everything. I have no problem at any Tesla supercharger (v3 and v4). RAN chargers work consistently but the cost/KWH is about 50% greater than at the nearest Tesla station. RAN has heat problems that Tesla does not have. In Wickenburg, AZ juts a few days ago, it was close to 110. As we charged, I could watch the rate climb quickly to as high a 222, KW, but a few seconds after it reached the max, it would drop to 45 KW. Then it would start climbing again. We watched it cycle like this every 30-60 seconds for close to an hour. There was a maintenance guy working on another station and he said that's normal RAN behavior at this temperature. The stations apparently do not have the capability to find a rate that can cope with the temperature. I've charged at Tesla sites many times at this kind of temperature and this does not happen with them.
+
+As a result I try to charge at Tesla SCs only on the road, second choice is RAN, distant third is EA.
+
+It's a particular route issue, but between Lake Tahoe and Las Vegas we drove US 95 many times in our Tesla. However, the R1S even with a Max battery, it's not a useable route. It can be done apparently but required the use of an off brand 50 KW charger and I simply won't do that. Ironically, a much more remote route from Bend OR to Las Vegas worked fine. Bend to Burns, then Winnemucca, Battle Mountain, then Ely and finally Las Vegas worked fine. It crosses US 50 which is called the Loneliest Road in America, but the route we took makes US 50 look crowded.
+
+We do Las Vegas to Tahoe and return every year so I really hope this hole gets filled.",1,2025-07-12 15:54:30,https://www.reddit.com/r/Rivian/comments/1lydhix/charging_on_the_road/,https://www.reddit.com/r/Rivian/comments/1lydhix/charging_on_the_road/
+rivian,Anyone else having issues with Apple Music?,"After updating to iOS26 developer beta 3, my truck now shows I do not have an Apple Music subscription. Works just fine in other vehicles, both my phones, and laptop. 
+
+So far, I did an infotainment reset, tried letting the vehicle sleep overnight, sign out and sign back in with Apple. Any other ideas? 
+
+Cheers! ",18,2025-07-12 13:23:45,https://www.reddit.com/gallery/1lya5ib,https://www.reddit.com/r/Rivian/comments/1lya5ib/anyone_else_having_issues_with_apple_music/
+rivian,Stiff suspension in All Purpose from cold start,"Hello! I have a 2023 R1S Quad motor. Often, when I start my drive the suspension is really rough for the first two blocks. I am always in All-purpose mode on my daily drives. After about that distance everything loosens up and feels like I have come to expect with All-purpose mode.
+
+I don't notice the ride height being lower than I would expect in the morning so I'm hesitant to blame a slow leak, but it's really annoying so I'm curious if anyone has any suggestions or has experienced a similar issue. ",3,2025-07-12 12:26:16,https://www.reddit.com/r/Rivian/comments/1ly8u5n/stiff_suspension_in_all_purpose_from_cold_start/,https://www.reddit.com/r/Rivian/comments/1ly8u5n/stiff_suspension_in_all_purpose_from_cold_start/
+rivian,"I love my three month old Rivian so much but man, I dealing with a bunch of issues!","First off, I want to say I’m not here just to complain — I have a service appointment next week with a full list of issues, and I want to share in case others have experienced the same or have advice. I completely understand these are very “first-world problems,” and overall, I’ve had a great experience with Rivian service — they’ve been fantastic on the phone and through the app.
+
+I’ve done multiple soft and hard resets, sent diagnostics from the screen, and gone through troubleshooting steps already. Here’s what I’m seeing:
+	•	Software version / visualization
+I’m on the latest release, GEN 2 hardware, but I don’t have the latest visualization updates yet. Has anyone else seen delays rolling out?
+	•	Mobile app control stopped working
+A couple of days ago, neither my phone nor my wife’s can control car functions. The app still shows driving status, charge level, etc., but any command errors out. I found an old comment from u/wassymrivian about this affecting ~5% of users, but that was ~260 days ago. Anyone recently experience this?
+	•	Charging trips breaker
+Since the last update, my hardwired ChargePoint Home Flex (3 years old, 60A circuit, set to 48A) trips the breaker when charging. Reducing amperage on the car side doesn’t help; only lowering max amps on the charger works. It feels like maybe the car isn’t honoring the set amperage and is overdrawing? I know 32A is fine, and I’ll get my electrician to check the panel/breaker, but it’s curious this only started after an update focused on charging speed/efficiency.
+	•	“Park button not working” error
+Intermittently, I get a message saying the park button isn’t working, and I need to use the on-screen prompt to shift into park. This dialog comes up anytime the car stops, even when stopped at a red light. It happens a few times a week, but of course, I bet it won’t reproduce when I’m at service!
+
+I’m actually excited for the service visit and optimistic they’ll be able to sort these out. Sharing here partly to see if others have seen any of these issues — and, let’s be honest, partly hoping for a comment from u/wassymrivian ",12,2025-07-12 12:00:11,https://www.reddit.com/gallery/1ly87qx,https://www.reddit.com/r/Rivian/comments/1ly87qx/i_love_my_three_month_old_rivian_so_much_but_man/
+rivian,"My Olympic Peninsula road trip, 460 miles round trip","Recently took a 2-day road trip on July 8-9 around the Olympic Peninsula in my Forest Green ‘25 R1T Dual Large, aka Ranger. Seattle > Port Angeles > Second Beach > Forks > Hoh Rain Forest (Olympic National Park) > Aberdeen > Seattle, ~460 miles. 
+
+The truck did GREAT! I have free RAN charging until March ‘26 so I specifically planned the trip only using two RAN, one in Forks at the end of the first day and one in Aberdeen on the way back to Seattle the second day. 
+
+Biggest issues/problems I ran into were: 
+1) the nav kept sending me to Tesla Superchargers in both Forks and Aberdeen instead of the RAN ones I specifically added in my planned trip in the Rivian app, very bizarre. While it was annoying/frustrating it wasn’t a huge deal because in both places the Tesla Supercharger and RAN were very close to each other. But I’d have to end the trip and search in the nav specifically for the RAN to get it to navigate to them successfully. 
+2) At both RAN I got multiple charging errors and in the end had to move the truck to a different charger. In Forks I gave up at 88%, wanted to get to 90%. 
+
+I know I should have done shorter, more frequent charge stops, but I was after that sweet, sweet free charging 😂
+
+Some additional notes:
+-Got down to 7% before reaching the Forks RAN! I  previously had a Tesla Model 3 Performance for 5 years in which I did multiple trips from Seattle to Arizona and back, so I don’t have any range anxiety, but 7% is definitely the lowest I’ve ever gone, especially on a road trip. The truck did start turning things off like automatic wipers and Automatic High Beams on the short trip from Second Beach to the Forks RAN. 
+-Only spotted two other Rivians the whole trip, both R1S, which seemed super odd since there are so many Rivian in the Seattle area. Western WA is still dominated by Suburbs lol, they are literally everywhere. 
+-Was the only one charging in both Forks and Aberdeen. 
+-Rivian Autonomy Platform/Highway Assist was only available in patches and spurts, but I enjoy driving too much to do more than just show it off to my parents. 
+-Speaking of, the main purpose of the trip was to take my parents to see my favorite WA beach, Second Beach (which was totally fogged in ☹️) and the rain forest. They live in southern AZ and it’s like going to Mars for them with how different it is, lol. Had a great time explaining and demonstrating all the cool things about the truck, and showing them how capable an EV can be, albeit on a relatively short road trip. My dad has always been a truck guy, Ford F-150 mostly, and he was thoroughly impressed. 
+-The line of cars to get into the Hoh Rain Forest visitor center parking lot was about 90 minutes, they had signs saying it could be up to 2 hours. And then the parking situation was frankly a nightmare, we drove in circles for about another 20-25 minutes before finding a spot. The couple other times I’ve been there was zero line. 
+-Had a BougeRV 23 Quart Portable Refrigerator plugged into the 12v in the Gear Tunnel, once lined up and slightly tilted up in the front it could be easily reached from the back seat pass through (thanks r/Rivian and Rivian Forum posters for the perfect model and set up suggestion!). 
+
+Can’t wait for my next trip! 🌲",63,2025-07-12 02:29:32,https://www.reddit.com/gallery/1lxwcwj,https://www.reddit.com/r/Rivian/comments/1lxwcwj/my_olympic_peninsula_road_trip_460_miles_round/
+rivian,Charging on the road?,"I take a lot of road trips in the Southwest where charging is much sparser than anywhere else. The EA chargers seem to be the best non Tesla and they are finicky and bad by comparison. About 50% of the time they will not connect to my R1S unless I call the help number and they do it from their end. And I have an EA membership, the app, and everything. I have no problem at any Tesla supercharger (v3 and v4). RAN chargers work consistently but the cost/KWH is about 50% greater than at the nearest Tesla station. RAN has heat problems that Tesla does not have. In Wickenburg, AZ juts a few days ago, it was close to 110. As we charged, I could watch the rate climb quickly to as high a 222, KW, but a few seconds after it reached the max, it would drop to 45 KW. Then it would start climbing again. We watched it cycle like this every 30-60 seconds for close to an hour. There was a maintenance guy working on another station and he said that's normal RAN behavior at this temperature. The stations apparently do not have the capability to find a rate that can cope with the temperature. I've charged at Tesla sites many times at this kind of temperature and this does not happen with them.
+
+As a result I try to charge at Tesla SCs only on the road, second choice is RAN, distant third is EA.
+
+It's a particular route issue, but between Lake Tahoe and Las Vegas we drove US 95 many times in our Tesla. However, the R1S even with a Max battery, it's not a useable route. It can be done apparently but required the use of an off brand 50 KW charger and I simply won't do that. Ironically, a much more remote route from Bend OR to Las Vegas worked fine. Bend to Burns, then Winnemucca, Battle Mountain, then Ely and finally Las Vegas worked fine. It crosses US 50 which is called the Loneliest Road in America, but the route we took makes US 50 look crowded.
+
+We do Las Vegas to Tahoe and return every year so I really hope this hole gets filled.",1,2025-07-12 15:54:30,https://www.reddit.com/r/Rivian/comments/1lydhix/charging_on_the_road/,https://www.reddit.com/r/Rivian/comments/1lydhix/charging_on_the_road/
+rivian,"I love my three month old Rivian so much but man, I dealing with a bunch of issues!","First off, I want to say I’m not here just to complain — I have a service appointment next week with a full list of issues, and I want to share in case others have experienced the same or have advice. I completely understand these are very “first-world problems,” and overall, I’ve had a great experience with Rivian service — they’ve been fantastic on the phone and through the app.
+
+I’ve done multiple soft and hard resets, sent diagnostics from the screen, and gone through troubleshooting steps already. Here’s what I’m seeing:
+	•	Software version / visualization
+I’m on the latest release, GEN 2 hardware, but I don’t have the latest visualization updates yet. Has anyone else seen delays rolling out?
+	•	Mobile app control stopped working
+A couple of days ago, neither my phone nor my wife’s can control car functions. The app still shows driving status, charge level, etc., but any command errors out. I found an old comment from u/wassymrivian about this affecting ~5% of users, but that was ~260 days ago. Anyone recently experience this?
+	•	Charging trips breaker
+Since the last update, my hardwired ChargePoint Home Flex (3 years old, 60A circuit, set to 48A) trips the breaker when charging. Reducing amperage on the car side doesn’t help; only lowering max amps on the charger works. It feels like maybe the car isn’t honoring the set amperage and is overdrawing? I know 32A is fine, and I’ll get my electrician to check the panel/breaker, but it’s curious this only started after an update focused on charging speed/efficiency.
+	•	“Park button not working” error
+Intermittently, I get a message saying the park button isn’t working, and I need to use the on-screen prompt to shift into park. This dialog comes up anytime the car stops, even when stopped at a red light. It happens a few times a week, but of course, I bet it won’t reproduce when I’m at service!
+
+I’m actually excited for the service visit and optimistic they’ll be able to sort these out. Sharing here partly to see if others have seen any of these issues — and, let’s be honest, partly hoping for a comment from u/wassymrivian ",11,2025-07-12 12:00:11,https://www.reddit.com/gallery/1ly87qx,https://www.reddit.com/r/Rivian/comments/1ly87qx/i_love_my_three_month_old_rivian_so_much_but_man/
+rivian,"My Olympic Peninsula road trip, 460 miles round trip","Recently took a 2-day road trip on July 8-9 around the Olympic Peninsula in my Forest Green ‘25 R1T Dual Large, aka Ranger. Seattle > Port Angeles > Second Beach > Forks > Hoh Rain Forest (Olympic National Park) > Aberdeen > Seattle, ~460 miles. 
+
+The truck did GREAT! I have free RAN charging until March ‘26 so I specifically planned the trip only using two RAN, one in Forks at the end of the first day and one in Aberdeen on the way back to Seattle the second day. 
+
+Biggest issues/problems I ran into were: 
+1) the nav kept sending me to Tesla Superchargers in both Forks and Aberdeen instead of the RAN ones I specifically added in my planned trip in the Rivian app, very bizarre. While it was annoying/frustrating it wasn’t a huge deal because in both places the Tesla Supercharger and RAN were very close to each other. But I’d have to end the trip and search in the nav specifically for the RAN to get it to navigate to them successfully. 
+2) At both RAN I got multiple charging errors and in the end had to move the truck to a different charger. In Forks I gave up at 88%, wanted to get to 90%. 
+
+I know I should have done shorter, more frequent charge stops, but I was after that sweet, sweet free charging 😂
+
+Some additional notes:
+-Got down to 7% before reaching the Forks RAN! I  previously had a Tesla Model 3 Performance for 5 years in which I did multiple trips from Seattle to Arizona and back, so I don’t have any range anxiety, but 7% is definitely the lowest I’ve ever gone, especially on a road trip. The truck did start turning things off like automatic wipers and Automatic High Beams on the short trip from Second Beach to the Forks RAN. 
+-Only spotted two other Rivians the whole trip, both R1S, which seemed super odd since there are so many Rivian in the Seattle area. Western WA is still dominated by Suburbs lol, they are literally everywhere. 
+-Was the only one charging in both Forks and Aberdeen. 
+-Rivian Autonomy Platform/Highway Assist was only available in patches and spurts, but I enjoy driving too much to do more than just show it off to my parents. 
+-Speaking of, the main purpose of the trip was to take my parents to see my favorite WA beach, Second Beach (which was totally fogged in ☹️) and the rain forest. They live in southern AZ and it’s like going to Mars for them with how different it is, lol. Had a great time explaining and demonstrating all the cool things about the truck, and showing them how capable an EV can be, albeit on a relatively short road trip. My dad has always been a truck guy, Ford F-150 mostly, and he was thoroughly impressed. 
+-The line of cars to get into the Hoh Rain Forest visitor center parking lot was about 90 minutes, they had signs saying it could be up to 2 hours. And then the parking situation was frankly a nightmare, we drove in circles for about another 20-25 minutes before finding a spot. The couple other times I’ve been there was zero line. 
+-Had a BougeRV 23 Quart Portable Refrigerator plugged into the 12v in the Gear Tunnel, once lined up and slightly tilted up in the front it could be easily reached from the back seat pass through (thanks r/Rivian and Rivian Forum posters for the perfect model and set up suggestion!). 
+
+Can’t wait for my next trip! 🌲",63,2025-07-12 02:29:32,https://www.reddit.com/gallery/1lxwcwj,https://www.reddit.com/r/Rivian/comments/1lxwcwj/my_olympic_peninsula_road_trip_460_miles_round/
+rivian,Charging on the road?,"I take a lot of road trips in the Southwest where charging is much sparser than anywhere else. The EA chargers seem to be the best non Tesla and they are finicky and bad by comparison. About 50% of the time they will not connect to my R1S unless I call the help number and they do it from their end. And I have an EA membership, the app, and everything. I have no problem at any Tesla supercharger (v3 and v4). RAN chargers work consistently but the cost/KWH is about 50% greater than at the nearest Tesla station. RAN has heat problems that Tesla does not have. In Wickenburg, AZ juts a few days ago, it was close to 110. As we charged, I could watch the rate climb quickly to as high a 222, KW, but a few seconds after it reached the max, it would drop to 45 KW. Then it would start climbing again. We watched it cycle like this every 30-60 seconds for close to an hour. There was a maintenance guy working on another station and he said that's normal RAN behavior at this temperature. The stations apparently do not have the capability to find a rate that can cope with the temperature. I've charged at Tesla sites many times at this kind of temperature and this does not happen with them.
+
+As a result I try to charge at Tesla SCs only on the road, second choice is RAN, distant third is EA.
+
+It's a particular route issue, but between Lake Tahoe and Las Vegas we drove US 95 many times in our Tesla. However, the R1S even with a Max battery, it's not a useable route. It can be done apparently but required the use of an off brand 50 KW charger and I simply won't do that. Ironically, a much more remote route from Bend OR to Las Vegas worked fine. Bend to Burns, then Winnemucca, Battle Mountain, then Ely and finally Las Vegas worked fine. It crosses US 50 which is called the Loneliest Road in America, but the route we took makes US 50 look crowded.
+
+We do Las Vegas to Tahoe and return every year so I really hope this hole gets filled.",1,2025-07-12 15:54:30,https://www.reddit.com/r/Rivian/comments/1lydhix/charging_on_the_road/,https://www.reddit.com/r/Rivian/comments/1lydhix/charging_on_the_road/
+electricvehicles,EV motor reliability?,"Hey guys, I am on the verge of buying my first EV (used). I’ve been super-excited about EV’s since the early days (Tesla Roadster and even the GM EV1). One of the promising aspects that I found particularly exciting was the lack of maintenance and the promise of incredibly reliable motors that could go 100s of thousands of miles without major maintenance or replacement. Some months ago I was quite tempted by a 2014 Tesla Model S  but doing some research on it I found that the Drive Unit frequently had to be replaced. 
+
+My question to you all is have EV’s actually lived up to that promise? Are most electric car motors as reliable as we were all hoping for? Have many of you experienced failures? Thanks for your help. ",19,2025-07-12 07:47:22,https://www.reddit.com/r/electricvehicles/comments/1ly27ts/ev_motor_reliability/,https://www.reddit.com/r/electricvehicles/comments/1ly27ts/ev_motor_reliability/
+CarRepair,2019 Nissan Sentra SV bucket incident,"I was riding on the interstate and accidentally ran over a hard plastic bucket. I believe this is the site in which the bucket entered and then exited the back of the car. Afterwards I got the malfunction that is shown in the photos. My headlights no longer work but my turning signals and brights do. One time the car also beeped like I was about to hit something but I was just about to drive over a railroad track.
+
+I have no idea what the thing in circled in red is or if it has anything to do with the issue but it appears to be loose. I’ve read through an online manual but haven’t found anything that could help. Do you guys have any suggestions on what it could be and how it could be fixed?",1,2025-07-12 17:32:14,https://www.reddit.com/gallery/1lyfih5,https://www.reddit.com/r/CarRepair/comments/1lyfih5/2019_nissan_sentra_sv_bucket_incident/
+CarRepair,Check Engine Light + Error Code 16395 on VW Passat CC 1.8 TSI – Need Advice,"Hey everyone,
+
+A few days ago (3 days ago to be exact), the check engine light came on in my 2008 VW Passat CC 1.8 TSI. I scanned it and got the fault code **16395 / P0011 – ""Camshaft A (Intake): Retard Setpoint not Reached (Over-Advanced)""**.
+
+From what I’ve gathered, this usually points to issues with the **camshaft timing**, possibly caused by:
+
+* A **faulty camshaft adjuster**
+* Dirty or failing **oil control valve (OCV / N205)**
+* Low or dirty **engine oil**
+* Timing chain stretch or tensioner issues
+
+I’ve also recorded a **cold start** video of the engine if anyone is willing to give it a listen to see if it sounds okay or if it could point to something more specific.
+
+Has anyone here experienced the same fault code? What did you end up doing to fix it? I'm wondering:
+
+* Should I try changing the oil and filter first as a basic step?
+* Is it safe to keep driving like this for now?
+* What would be the priority in diagnosing this further before heading to a shop?
+
+Any help or advice would be really appreciated. I’d prefer to handle what I can myself before throwing it at a mechanic.
+
+Thanks in advance!
+
+https://reddit.com/link/1ly1k60/video/yupjvhcgcgcf1/player
+
+",1,2025-07-12 07:18:28,https://www.reddit.com/r/CarRepair/comments/1ly1k60/check_engine_light_error_code_16395_on_vw_passat/,https://www.reddit.com/r/CarRepair/comments/1ly1k60/check_engine_light_error_code_16395_on_vw_passat/
+autorepair,2018 VW Polo 1.0l TSI SEL Petrol / 56k Miles,"So I’ve recently been experiencing misfiring, idling roughly, and showing both EPC and engine lights. When I drive at the start the lights don’t appear but after some time driving or when I’m at a stop at traffic lights the lights both come on. I’ve already replaced the spark plugs and ignition coils at a garage from their recommendation but the issue continues.
+
+I got my friend to run me a diagnostic and the following appeared;
+
+	•	P119A00 – Fuel injector/fuel pressure regulation issue
+	•	P217800 – System too rich off idle (Bank 1)
+	•	P218800 – System too rich at idle (Bank 1)
+	•	P030000, P030200, P030300 – Misfires on cylinders 2 & 3 + random misfire
+	•	P130A00 – Cylinder deactivation (due to misfires)
+	•	P011300 – Intake air temperature sensor – high input
+	•	P023800 – Turbo boost sensor (A) – high input
+
+
+I was just really wondering if anyone could recommend a sensible way to approach this as I don’t want to splash cash on issues that would be more unlikely. I have tried visiting garages around my local area but I feel most of them are just saying random issues such as the timing chain belt is damaged. 
+
+Any help would be appreciated :)
+
+2018 VW POLO 1.0L TSI SEL DSG ",0,2025-07-12 10:30:28,https://www.reddit.com/r/autorepair/comments/1ly62nz/2018_vw_polo_10l_tsi_sel_petrol_56k_miles/,https://www.reddit.com/r/autorepair/comments/1ly62nz/2018_vw_polo_10l_tsi_sel_petrol_56k_miles/
+autorepair,"P0340, P0641, P2106 Codes on 2006 Hyunda Sonata 3.3L","I'll list the issues/story short and sweet.
+
+\- A/C compressor and clutch went bad, so replaced both. Also while in there replaced the A/C pressure sensor (with a non denso sensor).
+
+\- Took out and changed the power steering reservior and had to unplug the powerr steering sensor (no new sensor).
+
+\- Replaced the intake manifold gaskets. (Had to take off the throttle body and unhook several sensors on the wiring harness to access the manifold)
+
+After I buttoned up the car. I recieved these check engine codes. The car also has an ESC light on and goes into limp-mode.  
+The car idles perfectly. You can clear the code, drive around and the car feels fine. But once you turn off the car and turn it back on, the code reappear.
+
+\- Checked the cam sesnors. They are getting voltage.
+
+\-I got continuity from the wiring harness to the grounds while the car was off) (running on just battery power). But when I had the car running I wasnt able to get continuity to a ground.
+
+\- Took it to a mechanic, he couldn't find the issue (he said he wasnt an ""electical shop"" but gave me another shop that specalizes in it).
+
+Is it a bad ground? A/C sensor (since its not a denso)? Broken wire in harness? Bad accelorator pedal?
+
+Help.",0,2025-07-12 10:25:33,https://www.reddit.com/r/autorepair/comments/1ly5y79/p0340_p0641_p2106_codes_on_2006_hyunda_sonata_33l/,https://www.reddit.com/r/autorepair/comments/1ly5y79/p0340_p0641_p2106_codes_on_2006_hyunda_sonata_33l/
+autorepair,2006 Saturn Vue break issues,My Saturn Vue has had all the brake pads and calipers replaced just a year ago. What I think is happening is somehow brake fluid is being restricted from flowing back to the master cylinder causing my front passenger wheel to constantly have the break applied. Is this a thing? Every time I take it in they insist on the calibers and breaks. What should I tell them? ,0,2025-07-12 09:56:12,https://www.reddit.com/r/autorepair/comments/1ly5926/2006_saturn_vue_break_issues/,https://www.reddit.com/r/autorepair/comments/1ly5926/2006_saturn_vue_break_issues/
+MechanicAdvice,"Exhaust Issues, Check Engine Light & No Solution","2009 Lexus ISF V8 Base sedan exhaust issues.
+
+History: Shipped car from VA to SOCAL. Lived here 6 years and was all of a sudden failed for not having secondary cats, same shop different inspector that day. The exhaust was the Joe Z PTS system from the primary cat's back. Never had any issues or failed any emissions test until this.
+
+Repairs:
+
+1. Purchased aftermarket CARB approved Walker secondary cats and had them installed at the x-pipe. Upon picking up the car immediately noticed loss of power/torque/exhaust sputtering but passed emissions. Week later check engine light pops on and off. (P-0430) Bought the car back to the exhaust shop and had them remove the secondary cats and fabricate a new mid-pipe and flanges to be able to swap out the cats for emissions testing. Still no fix for loss of power. $500. Exhaust video: [https://youtube.com/shorts/yP823e3-JbM](https://youtube.com/shorts/yP823e3-JbM)
+2. Took car to 3 other exhaust shops, all claim no leaks. 1 shop claims it's a misfire and refused to work on it. I came back a couple months later and a different guy is working, pulls it in the shop and the first guy comes back from lunch. He then says that my exhaust manifold is cracked and to replace it.
+3. Purchased used exhaust manifold, inspected and everything looked good, had shop install the used manifold with brand new primary O2 sensors. Still no fix for loss of power/sputtering from exhaust. $2,000
+4. Replaced secondary O2 sensors, no fix. $400
+5. Replaced all spark plugs, no fix. $120
+6. Cleaned mass airflow sensor and checked intake, no fix. $12
+7. Took to Lexus dealership as last resort, diagnosis...replace exhaust manifolds...quote: $12,000. Said f\*\*k you and drove off $500 poorer.
+8. Took to well-known Lexus shop in area, diagnosis: exhaust leaks and to replace entire catback exhaust. I refused as I don't want to replace the Joe Z, but opted to fix the leaks. Car is sent next door to exhaust shop attached to them. Shop refuses to fix without secondary cats being installed. I tell them to just install them and fix the leaks (the flanged cats were in the trunk).
+
+My friend picked up my car as it took longer to fix than the day and I had to travel. I came back 2 weeks later, car still has check engine light and loss of power, no change. The added bonus is the exhaust shop kept my aftermarket mid pipe and refuses to answer my calls to return it aka they disposed of it without my permission. Cost: $350.
+
+Any ideas would be greatly appreciated.",1,2025-07-13 00:21:00,https://www.reddit.com/r/MechanicAdvice/comments/1lymsc3/exhaust_issues_check_engine_light_no_solution/,https://www.reddit.com/r/MechanicAdvice/comments/1lymsc3/exhaust_issues_check_engine_light_no_solution/
+MechanicAdvice,2012 Honda CRV my mechanic and I are going crazy trying to figure out the issue,"My floor mats are getting soaked anytime I drive with the AC on. fully soaking wet to the touch, . I took it into the mechanic and they said it was a kinked hose in the AC drain and that they fixed it, but it's still ongoing. I took it back and they said it was draining fine, but I didn't know until after I picked it up that they hadn't driven it, just idled it for a while. They said to bring it back in while I'm having the issue. WICH started again an hr later but they were closed even he said that he has no idea what to look for as apparently all the normal things he would look for work just fine please help a desperate car owner and mechanic out 
+
+Any other ideas for what might cause it to drain properly when parked but not when it's driving or just any ideas what could be going on? Or what I should say to the mechanic when they're open again to ask about the issue?",1,2025-07-13 00:00:13,https://www.reddit.com/r/MechanicAdvice/comments/1lymghh/2012_honda_crv_my_mechanic_and_i_are_going_crazy/,https://www.reddit.com/r/MechanicAdvice/comments/1lymghh/2012_honda_crv_my_mechanic_and_i_are_going_crazy/
+MechanicAdvice,How bad is this?,"Long story short, I'm doing some work on a friend's car (17 Kia Forte), I dropped the oil pan, and discovered one of the main cap bolts was sheared off on the front side (pictured). It's a pretty deep hole, but sheared where the threads start. It's been running that way for at least a few months already, so I'm wondering at this point is worth digging in to try to fix the previous mechanic's mistake (extract and replace it)? Is it a bad idea to leave it as is?
+
+Backstory: I've learned that the previous owner had the engine rebuilt after it overheated and there's underbody damage from some unplanned off-roading. Under the hood, everything looks pretty shoddily done (several missing bolts, missing brackets, excessive use of RTV, stripped valve cover bolts, I could go on..) So I don't have much confidence in any of the repair work at this point. I only found this issue when replacing the oil pan, because it looked like they reinstalled the damaged pan when the engine was rebuilt.. just.. why?? And shockingly it was leaking.
+
+Do I need to hunt down the previous mechanic and take away his Harbor Freight wrenches because he obviously doesn't know enough to use them responsibly?",1,2025-07-12 23:24:31,https://i.redd.it/zsyjio5f4lcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lylwpk/how_bad_is_this/
+MechanicAdvice,Inner tie rod leaking grease,"Inner tie rod boot is leaking some grease on one side. Is this just a deteriorated boot or potentially a sign of bigger issues? I'm hearing clicking nosies while turning sharply at slow speeds, so I went to check the CV joints - but this is the only apparent damage.
+2010 Mitsubishi Outlander",7,2025-07-12 22:39:36,https://www.reddit.com/gallery/1lyl6mn,https://www.reddit.com/r/MechanicAdvice/comments/1lyl6mn/inner_tie_rod_leaking_grease/
+MechanicAdvice,Need diagnosis please,"I have a 1993 ford thunderbird with the 5.0. Recently started bogging down when you just the gas and wouldn’t go above 40. Changed the fuel filter used gas treatment and filled tank with premium. Cleaned filters. Ran like a dream first two days. Extremely hot weather here in Nevada and the car is having issues. In the hot weather I’m lucky to make it a block or two without it stalling, backfiring and going barely above 5 the gas pedal means nothing at these times. I’ve checked all fluids. Good. Fuel pressure good. I’m hearing mass air flow sensor, vapor lock, throttle sensor, and fuel pump. I am in a budget and just started a job I can’t lose and I can’t afford all these parts. After the temperature cools around 9-10 pm it’s like a release on the gas pedal and the car flows beautiful. If it does seem to bog I left of the gas and it’s like it catches and then I can resume pressure. Any ideas would be great. Thank you so much ",1,2025-07-12 22:39:05,https://www.reddit.com/r/MechanicAdvice/comments/1lyl6bg/need_diagnosis_please/,https://www.reddit.com/r/MechanicAdvice/comments/1lyl6bg/need_diagnosis_please/
+MechanicAdvice,2017 Hyundai Elantra - antifreeze close to empty - oil smells like gasoline,"Ok here we go- just bought this is January paid 7300 had 117k ok it now got 132k on it.  Had a slight antifreeze smell at time of purchase.. wanted a leak down test on engine because of Hyundai's record for engine issues also wanted pressure test on radiator because of antifreeze smell. Long story short got neither..step father took it to have those two things done..he insisted on getting front brakes done instead.  Told me they didnt smell antifreeze..and said brakes are more important..this has some truth to it however without an engine you shouldn't really have trouble stopping ..lol. smh..month later still had antifreeze smell' i took it in had them fix a clamp on the one hoses by the heater core (i think) antifreeze smell was and still is gone. About a month ago when I started using the air car felt like it had slight loss of power when accelerated..was going to have tune up this month. Last night ac was on i was idling in park. Noticed air temp get warm.. the ac was on but it suddenly was warm ..shut it off turned back on came out cold. Drove around came out cold the entire time . Parked again got warm. Parked it and went inside. Couldn't see in the dark..Today I looked at antifreeze- both reservoir and the radiator empty filled it drpve about 15 miles- air worked entire time and well. Pulled over antifreeze in reservoir low  filled it again didn't check radiator it was  to hot. Thought might be good idea to look at oil as well. When I pulled out dipstick it was pretty hot a little smoke came from dipstick area when I went to wipe off the oil I instantly smelled gasoline.
+  Oil was low as well.But its one of those colored dipsticks its hard to really judge on them. For me anyways..so took it right over to the shop - Got an oil change..Pet boys was only place still open..Lol they couldn't tell me anything  about the oil..not the color -the level - the gasoline smell  - nothing at all - because there's no mechanic on duty just oil techs.. I wanted to cry. In the car i actually did. Felt like saying can I get mu oil u drained then at least..I'll have more luck with an answer than you and your oil techs..paid 100 bucks for synthetic.. It still smelled like gas when I looked at it.. but as we know  gas is strong I didn't expect it to just go away with the  oil change.. My brother said could be I just needed an oil change. Is that true?? Last one was about 3 months ago so yes I was overdue.. hoping its just fuel injectors not the piston rings. Or worse.. I dont really know what each cost.im guessing piston rings cost more .I dont think the issues go hand in hand ..I didn't notice Any white smoke coming from tail pipe as far as cracked head gasket .. I dont know.. obviously im a chick..I know a decent amount about cars.. but not as much  as any of you guys will. I guesss where should I start I dont have a ton of cash my brother is mechanically inclined when he wants to be .he did my compressor my starter tune up brakes shocks struts on other cars...Idk. I want to narrow it down to what the problems most likely are.. I know I can just take it to the shop and I'll probably do that Monday, but i'd like  an idea of what im looking at.I appreciate any feedback. Thx",1,2025-07-12 22:31:13,https://www.reddit.com/r/MechanicAdvice/comments/1lyl1mi/2017_hyundai_elantra_antifreeze_close_to_empty/,https://www.reddit.com/r/MechanicAdvice/comments/1lyl1mi/2017_hyundai_elantra_antifreeze_close_to_empty/
+MechanicAdvice,"Auto Shifter Knob jams when shifting out of park, but after pressing the button a couple times it will engage.","2011 Nissan pathfinder
+
+Hey guys! I am just trying to figure out how to fix this issue that i suspect is a relatively easy fix without having to pay a 200 dollar diagnstic fee at my dealership. So recently, the shifter knob just ""jams"" when trying to get it out of park, but if I keep trying to press the button and shift, it will eventually work. I dont have to press the little shifter lock bypass button or anything. It just takes a a minute or two of pressing the button until it decides to engage. Could this be a fuse issue? I took off the knob itsself to make sure it wasnt that causing the issue, but the locking mechanisim that sticks up vertically w/o the knob still does it.
+
+Any suggestions on what to look for would be appreciated greatly!
+
+Thanks",1,2025-07-12 21:59:43,https://www.reddit.com/r/MechanicAdvice/comments/1lykia5/auto_shifter_knob_jams_when_shifting_out_of_park/,https://www.reddit.com/r/MechanicAdvice/comments/1lykia5/auto_shifter_knob_jams_when_shifting_out_of_park/
+MechanicAdvice,"Two sets of new AC Schraders hissing after pulling vacuum, can the vacuum itself cause that?","Nutshell version - Full AC rebuild and Two sets of Schraders, both High and Low side hissed initially after pulling vacuum, Low still does. AC worked in this Honda CRV for four years until the compressor clutch started being erratic, Shop said they only evacuated 1/2 pound instead of 1, so suggested schraders might be bad. Going to try set 3 tomorrow, after that is it time for a new line with charging port? Didn't feel like threads were crossed, don't see chewed up threads or debris, seemed like good install.
+
+Detailed version -I just replaced all major AC components, put in new Schrader valves after pulling a vacuum, got some hiss from each new valve when I removed the lines. And again after I put in a new set. The High side calmed down after I turned it just a bit but I can't get the Low side to cooperate. 
+
+""Normal"" process would be to vacuum and then charge (I was planning to take it to a shop for the charge) but wanted to pull out moisture and test that the system held vacuum and (it did for 1/2 hour),  but then I got the unexpected hiss when I pulled the lines. Maybe it's somewhat normal for Schraders to do this under vacuum.
+
+Wondering if the vacuum itself could draw the valve down, when I pull the line off, it hisses audibly for 5 seconds, the if I hold my hear down I can hear it hiss another 5 then it stops but I can depress the pin relieve even more vacuum. If I only pull vacuum to 10 mercury no hissing, if pull to 15 higher I get hiss when I remove the line. 
+
+On recommendation I tried a bit of HVAC Nylog Blue Thead Sealant which is appropriate for R134a but this didn't seem to make a difference. I tried the old removed valves, and each of the first set I bought along with small tweaks to the valve and things did improve but not entirely. 
+
+I have a new set coming tomorrow, if not that then maybe I need to replace the line but it wouldn't seem like the ports and threads should just go bad. I'm no AC guru, but I've replace a set of these once before without issue on a different car. 
+
+This is about the 5th curveball this project has tossed at me, any pointers or advice is welcomed and appreciated!",1,2025-07-12 21:54:03,https://www.reddit.com/r/MechanicAdvice/comments/1lykeu2/two_sets_of_new_ac_schraders_hissing_after/,https://www.reddit.com/r/MechanicAdvice/comments/1lykeu2/two_sets_of_new_ac_schraders_hissing_after/
+MechanicAdvice,Really weird electrical issues in 2001 Cadillac DeVille Hearse (converted by Superior),"> # Problem
+
+I replaced my battery on July 4th. I figured it was just an old battery.
+
+But now my battery is failing to start the car again. It read somewhat low, 12.38V, and wouldn't even give a clicking noise when turning the ignition. Interior lights, radio, dashboard lights all turned on as expected.
+
+The only thing which did not work as expected was the passenger door lock. It would not unlock with the fob or the door-mounted lock switches. All other doors locked and unlocked normally.
+
+I tried doing a parasitic draw test with a meter that I tested on a wall-plug DC charger and confirmed that it was working. I left the positive terminal connected, disconnected the negative cable, then placed the negative probe in the negative post-hole (this is a [weird battery where the posts screw in from the cables](https://www.oreillyauto.com/detail/c/premium/super-start-premium-standard-flooded-side-post-battery-group-size-79-840-cca-140-minute-rc/ssbo/79prmj)). I then touched the positive probe in the negative cable. This gave me a reading of 0 mA, which is clearly incorrect... yet that's the reading I got.
+
+So, I figured I'd give it a more basic test. I turned on an interior lightbulb under the floor of the hearse. This lightbulb has a loose switch which is not mounted well to any surface. That's just how I got the car and I've been doing a lot of other work so I haven't fixed that yet. (This will be relevant in a minute.)
+
+I left the door open so if the battery was connected, the light was on. If the battery was disconnected, the light would, of course, be off. My thought was, once I complete the circuit for the parasitic draw test using the multimeter, the light should turn back on again. Except that didn't happen. No matter where I touched in the battery post-hole or on the negative terminal, the reading stayed 0 mA and the light did not turn on. This is despite the fact that it will read *voltage* just fine, but not *amperage*.
+
+I will again mention that the meter is probably not the issue because it gave normal amperage readings on a DC charger plugged into the wall.
+
+So, I'm pretty thoroughly mystified at this point, and resolved to take the battery in for testing. But when I went to lock the car for the night, I noticed something odd - the passenger door side was responding to the key fob again. It would lock and unlock normally again.
+
+> # Tentative Diagnosis
+
+**This leads me to my tentative conclusion**: A loose / exposed wire in the back of the light switch came into contact with the metal housing for the light, which is in turn connected to the chassis by metal. My thought is that the battery has been slowly draining to ground this way. And somehow this short also affected the wiring / solenoid / whatever which unlocks the passenger door.
+
+After leaving the battery this way for a little bit, when I turned the ignition, it no longer made no sound. It still didn't start, but it clicked once or twice before stopping. Now the battery voltage is at 11.98 V so there's pretty much no chance it'll recover without being charged. I'm taking it into O'Reilly's tomorrow for testing, which also includes charging it.
+
+Does my conclusion (that the battery was draining due to the contact of light switch wires on metal) seem reasonable? Or is there some other explanation here?
+
+The only other thing that changed is that I recently connected the vent tubes for the hydrogen gas ports, which were (for some reason) disconnected on my old battery. If that tube is plugged, and the hydrogen gas isn't able to drain properly, maybe that could kill my battery? I don't know, and I also don't see why that tube would be plugged.
+
+I have no explanation as to why the parasitic draw test isn't working. Totally at a loss there.",1,2025-07-12 21:28:23,https://www.reddit.com/r/MechanicAdvice/comments/1lyjysl/really_weird_electrical_issues_in_2001_cadillac/,https://www.reddit.com/r/MechanicAdvice/comments/1lyjysl/really_weird_electrical_issues_in_2001_cadillac/
+MechanicAdvice,Car won’t recognize brake being pressed after serpentine belt shreds,"Hello, I drive an Infiniti g37 s sedan 2011. I was driving down the road and it sounded like me belt shredded which is an issue I’ve had before. When it first happened only the brake light and battery light came on the dash. When it happened this time every light came on the dash. I parked behind a grocery store and put a new belt on but now the car will not recognize that my brake is being pressed. I checked my brake cable under the steering column and it’s fine. I suspect that the belt fwipped around and disconnected my brake cable from the starter. If anyone knows where the issue could be or what the issue could be please please help. Thank you. My car is still behind a grocery store. ",1,2025-07-12 20:58:59,https://www.reddit.com/r/MechanicAdvice/comments/1lyjfni/car_wont_recognize_brake_being_pressed_after/,https://www.reddit.com/r/MechanicAdvice/comments/1lyjfni/car_wont_recognize_brake_being_pressed_after/
+MechanicAdvice,My car was/is stuck in reverse and the brake is stuck firm.,"
+2016 VW Jetta se car stuck in reverse and brake stuck
+
+Never had any issues beside a wheel speed sensor I replaced and spark plugs and other small basic stuff. Then an engine code for an evap sensor just recently that went away after I cleared the code and hasn’t come back yet. Car at 180k miles.
+
+Got off work early tonight, having good day, made a quick trip to the gas station and got a drink. All normal. I went home and pulled into my driveway and had my foot on the brake. I slid my car into park, I THOUGHT. I felt my stick go forward and move no more, and my eyes didn’t look to double check. I missed it going Drive > neutral > stuck on reverse. I took my foot off the brake and felt the car roll. 
+
+I held the brake again and tried to put it in park again and it was firm. I tried to put it in drive so I could pull forward into my driveway since I rolled backwards. Neutral. Anything other thing except reverse but it wouldn’t let me. Turned it off, back on, nope. Put e brake on, shut off car. 
+
+My boyfriend was with me and we seen a video where you pry the end of the shifter stick thing up and there’s a yellow switch under there. He told me go ahead and turn your car on and we can put it in park at least. I pushed my foot on the brake so I could turn the car on and my brake was solid. No movement. Shit. I pushed the button and the battery came on and we were able to get it in park but the brake is still firm. The only thing I can think of is maybe the brake is firm because we pried the thing up and didn’t put it back on yet and there may be a built in sensor? Or maybe it is all related.
+
+Please any help
+
+
+2016 vw Jetta se 4.2L automatic ",2,2025-07-12 20:55:05,https://www.reddit.com/r/MechanicAdvice/comments/1lyjd6a/my_car_wasis_stuck_in_reverse_and_the_brake_is/,https://www.reddit.com/r/MechanicAdvice/comments/1lyjd6a/my_car_wasis_stuck_in_reverse_and_the_brake_is/
+MechanicAdvice,"Opel Corsa D 2008 – Immobiliser light flashing, car won’t start","My 2008 Opel Corsa D 1.0 (Z10XEP) won’t start — the immobiliser light keeps flashing and the car doesn’t crank at all.
+
+A guy came by with an Autel scanner and said that both the ECU and BCM are locked. He suspects the EEPROM is the issue and says it needs to be removed and reprogrammed — something he can’t do.
+
+Many mechanics around me also can’t fix this, and since the car won’t start so i cant take it to other cities. I am not trying to save money, its just that I cant find somone willing to come to my location. Hence I want to sort it out myself. I’m a DIY kind of guy.
+
+Should I just buy a complete ECU/BCM/key kit (pic attached) from a Corsa D with the same Z10XEP 1.0 engine ? Will it be the cheapest and easiest way to solve the issue?
+
+Or could someone please guide me through troubleshooting this? Any help appreciated. I am very stressed. Thanks a ton in advance. 
+",1,2025-07-12 20:39:56,https://www.reddit.com/gallery/1lyj37x,https://www.reddit.com/r/MechanicAdvice/comments/1lyj37x/opel_corsa_d_2008_immobiliser_light_flashing_car/
+MechanicAdvice,Looking to do an upgrade on my Kei truck; (USA BASED),"Vehicle Details;  
+1997 Suzuki Carry DD51T 5 spd + EL  
+148000 KM NO A/'C  
+3 Cylinder F6A Carbureted engine  
+
+
+Hello all; I am currently trying to install a [RV AC](https://www.amazon.com/dp/B0F2MWNZW9?ref=ppx_yo2ov_dt_b_fed_asin_title) to the roof of my kei truck.
+
+my concern is power. 
+
+currently I have a 340 CCA battery on the truck, and the stock [Alternator ](http://www.tocean.com.cn/product.asp?id=2631&type=233)  (12V/60AMP)   
+  
+Suzuki Part# 31400-51F11
+
+based on my english translated manual, if all lights were running on my little truck, I would be drawing a total of 298 watts. 
+
+The RV AC states that its wattage is 3000.
+
+now, Something about ohms law told me, that you multiple Voltage x amps = power.
+
+So, my 12V battery x 60 AMP =a total of 720 watts. 
+
+Chat is my math good?
+
+the plan is to up the Battery & the alternator. the alternator is probably going to be a 100 amp, but there is a bit of an issue there, because that totals to 1200 amps? Please check my math and thanks!  
+
+
+also, stock alternator cable is 24AWG, but it is almost 30 years old so i want to replace it. any suggestions?",1,2025-07-12 20:19:19,https://www.reddit.com/r/MechanicAdvice/comments/1lyipr8/looking_to_do_an_upgrade_on_my_kei_truck_usa_based/,https://www.reddit.com/r/MechanicAdvice/comments/1lyipr8/looking_to_do_an_upgrade_on_my_kei_truck_usa_based/
+MechanicAdvice,2017 Audi A4 intake runner sensor fail,"I had a MIL with two DTCs on my 2017 A4 with 146k miles on it, a P2015 and P2006 related to intake runner sensor range/performance and a runner actuator stuck closed. I did a vacuum check and it looks like it was able to hold the vacuum on the lines but it also seemed to have moved the actuator valve because the DTC changed to stuck open (P2004). At this point I figured it might just be a bad sensor which isn’t able to sense the actuator position so I swapped it but I accidentally broke one of the clips that holds it to the intake in the process. I see the same two DTCs still, after clearing them and driving for a bit. Do I need to buy another sensor just for the clips or could it be a different issue?",1,2025-07-12 19:53:27,https://www.reddit.com/r/MechanicAdvice/comments/1lyi8av/2017_audi_a4_intake_runner_sensor_fail/,https://www.reddit.com/r/MechanicAdvice/comments/1lyi8av/2017_audi_a4_intake_runner_sensor_fail/
+MechanicAdvice,How would I wire this?,"Hello everyone I obliterated a deer last week and had to replace my bumper, in turn I decided to get aftermarket pod lights to use in place of my fog lights. I have it wired up (directly to the fog lights) but now I realize I have an issue. The fog lights will turn off when the truck is running. Current issue or something? Idk but I think I need a relay but do not know what to do with the control wire if I want to use the current fog light harness to still turn on the lights instead of a dedicated switch. Please help!!",1,2025-07-12 19:45:39,https://i.redd.it/e9srcojs1kcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyi37p/how_would_i_wire_this/
+MechanicAdvice,Transmission Issue,"I have a 99 Honda Odyssey with 123k miles. Recently, I noticed the transmission shifting a little rough in some of the gears. The past few months I noticed the fuel economy decreasing a bit. There is no check engine light and transmission fluid has been changed every 30k miles since we purchased our beloved minivan brand new. The transmission fluid was replaced last year 3k miles ago, but I’m starting to regret it as I’m concerned the transmission is starting to go out.
+
+I’m hoping to get some recommendations on anything I should do. I’m thinking about using a transmission additive such as Lucas Transmission Fix to see if it helps. Any advice is appreciated.",1,2025-07-12 19:42:59,https://www.reddit.com/r/MechanicAdvice/comments/1lyi1e1/transmission_issue/,https://www.reddit.com/r/MechanicAdvice/comments/1lyi1e1/transmission_issue/
+MechanicAdvice,2013 ford escape issues,,1,2025-07-12 19:38:01,https://i.redd.it/5pc94qeqzjcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyhy53/2013_ford_escape_issues/
+MechanicAdvice,Another Bad Experience With Firestone Post - Any Further Tips,"Last year my car stopped while driving around midnight. I had just moved to a new city, and the closest place that could accept drops off was Firestone. They told me it was my alternator and then replaced it.
+
+15 months later (Tuesday) the same thing happens. My internet research told me alternators last 7-10 years, so I thought no way this is the alternator. Sure enough Firestone calls the next day telling me it is the alternator and is charging me for a new alternator, battery, plus labor. After some back and forth they agreed to cover the cost of a new alternator but would still charge me for labor and new battery (500).
+
+I pick up my car Thursday. Friday I'm driving and realize there is a gurgling or bubbling sound that occurs when I've gently accelerated from a full break, never heard this sound before. Bring it back to Firestone and tell me it is the idler pulley attached to the serpentine belt. They said it had worn down and probably wasn't an issue before, but they had to remove it to put in the new alternator and now it's likely causing the sound. The story didn't totally make sense to me (if they removed it and put it back on how did they not notice it was bad?) but they quoted me for the part only (185) and said they would cover labor.
+
+I go to pick up my car and immediately still hear the sound. I was so frustrated I drove right back. The guy said he had no one to look at it today, but recommend coming back when the store manager is there on Monday.
+
+I scoured some previous reddit posts and people mentioned the get right policy - which says if a service was preformed improperly, they will re-perform the service at no additional costs. But does that mean they will reimburse me for the 185? And any further tips in this specific situation? Thanks for help in advance and for letting me vent",1,2025-07-12 19:11:26,https://www.reddit.com/r/MechanicAdvice/comments/1lyhfy8/another_bad_experience_with_firestone_post_any/,https://www.reddit.com/r/MechanicAdvice/comments/1lyhfy8/another_bad_experience_with_firestone_post_any/
+MechanicAdvice,Ball joint from hell,"Hi guys, today I was tasked with what I thought would be a simple job. Lower control arms on a 2012 F150. Anyways was flying through it until it came to tightening the lower ball joint to the knuckle. Any issues I’ve have in the past, a pry bar, transmission jack, or at the very least the weight of the car have all worked. Wondering if you guys have any other ideas? This occurred on both sides. Attached is a picture. ",4,2025-07-12 19:09:04,https://i.redd.it/ftemvo19vjcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyhedr/ball_joint_from_hell/
+MechanicAdvice,06 Hyundai Elantra ac issue,"Car was given to me from a family member. Front end was smashed and they replaced various unknown parts of the front end , my cousin (not a mechanic but decently handy) put a vacuum on and recharged the lines before it got it.(radiator was said to be replaced I’m not sure if condenser/ fans were replaced after accident)
+
+I was told the car I was ac would work for a few seconds then get hot. After picking up the car, on the drive home I noticed that at 2500+rpm the air blew cold, and at idle the air was very hot
+
+Got home and threw the gauges on the high and low side, readings seemed abnormal. Looked into condenser fan and its spinning on low speed at idle, threw a jumper relay and the fans high speed kicked on just fine. Still no cold air. Compressor clutch will engage but I didn’t not hear it cycle on and off (just stayed engaged)
+
+My next step is to try to purge the system with vacuum and ensure the proper weight of refrigerant is added. I live in the desert and ambient temp is 115+, I really need to fix this asap as it is now my daily commuter. 
+
+Anyone have any recommendations of what it could possibly be? Thanks. ",2,2025-07-12 18:36:56,https://i.redd.it/ktla1abjpjcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lygsa5/06_hyundai_elantra_ac_issue/
+MechanicAdvice,Power window issues,"Since owning my 2005 Highlander (about a year) the two front windows worked properly, and the drivers rear would go down but not up with master switch. The rear passenger worked properly with its own switch. The passenger rear never worked at all with either switch. *Please keep in mind that since passenger stopped working I hear and feel a click when I press the buttons for passenger front from the master window switch I can feel and hear a click in the passenger window switch.*
+
+Few days ago we had lots of rain and passenger side window was opened for a few minutes while I had a smoke. Went to roll up window and it wouldn’t go up with either the master switch or its own switch - which up until that point worked as they should. 
+
+First thing thought was front passenger switch got wet so I removed the switch, took apart, cleaned and dried everything I could. I didn’t see any clear signs that water had made its way in. I hit it with electrical cleaner and some dielectric grease. Put back together and tried - nothing.
+
+Second thought was since master switch seems to have issues let’s try that next. Removed, took apart, again no clear signs of issue on circuit board or signs that lots of water had been in there. Used electrical cleaner, cleaned, and some dielectric put together and - the rear drivers using master switch came back to life how it was before rain incident - went down from master but not up. However no change at all with passenger front - still stuck down.
+
+My next thought was the motor maybe quit - I am not very experienced with electrical but have basic knowledge so I figured the clicking in switch meant that power is being sent to motor but motor not working. I just tried a new motor and zero change.
+
+What are my next steps? I have the door panel off, glass taped up where it should be, and have regulator removed. It seems that even with the clicking noise the motor isn’t getting power. I have tried to hold switch and move wiring in door jamb - no change at all. Have tried tapping while holding button - no change (figured it works for a starter sometimes worth a shot).
+
+Any ideas or things I can try greatly appreciated! Thanks ",1,2025-07-12 18:21:44,https://www.reddit.com/r/MechanicAdvice/comments/1lyghy5/power_window_issues/,https://www.reddit.com/r/MechanicAdvice/comments/1lyghy5/power_window_issues/
+MechanicAdvice,2019 CRV Windshield/Front Camera,"Had a random CAM signal pop up on my dash, can't see fuel economy, etc. Can't clear it on the dash. Cruise control stopped working. Took it to a dealership and they told me it isn't covered under third party warranty, and evidently it's an aftermarket windshield, not a honda windshield. We bought the car February 2024 and we've put a ton of miles on it, like 40k. Never had any issues with the car or sensors until now. Dealership is telling me the windshield is part of the  problem, and the cam needs recalibrated. I believe them on the camera, and not sure on the root cause of the issue, but does the windshield really play that big a factor? I'm also going to call the other Hondade alership I bought it from and confirm that it was in fact a certified pre-owned vehicle when we bought it, because evidently if it is certified pre-owned, it can't have aftermarket parts? So like, maybe they messed up and sold me a vehicle with an aftermarket windshield when they shouldn't have? Idk, I'm just trying to get out of spending 2100 bucks on all this. Help/Advice appreciated.",1,2025-07-12 18:19:10,https://www.reddit.com/r/MechanicAdvice/comments/1lygg3j/2019_crv_windshieldfront_camera/,https://www.reddit.com/r/MechanicAdvice/comments/1lygg3j/2019_crv_windshieldfront_camera/
+MechanicAdvice,What’s this?,"Scanned my car (2013 Toyota Corolla LE) today and this code popped up. AC works fine except for when I’m idling, I find the air isn’t as cold compared to when I’m actually driving. The airbag light is also on, but idk if those two are connected though. Does anyone know what could’ve caused this? ",1,2025-07-12 17:57:37,https://i.redd.it/lph03qqiijcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyg0ih/whats_this/
+MechanicAdvice,rattle noise from 2012 Honda civic 1.8L,"In my automatic civic, when I step on the accelerator a little hard, and the car is in 3rd, 4th, or 5th (could be happening in 1st and second, but more noticeable in higher gears), I hear this rattle noise around 2000-3000 rpms. Only happens while in gear, not in neutral or park. I replaced the engine and the torque mounts, but the issue still persists. Not sure what the issue could be and will appreciate any sort of advice.   
+  
+I do apologize in advance for not having video, I will try to upload one when I drive it next. Thanks!",1,2025-07-12 17:57:36,https://drive.google.com/file/d/1JmLImpK8s5gxHfzwfqwjRcdyDU3hIuPm/view?usp=sharing,https://www.reddit.com/r/MechanicAdvice/comments/1lyg0ie/rattle_noise_from_2012_honda_civic_18l/
+MechanicAdvice,Coolant leak/issues caused by Idle air coolant valve (ford fusion 2010),"
+On Friday on my way back from work, I smelled something weird while driving. When I got to my apartment and opened up the hood I saw smoke (not a lot) coming from the direction where the water distribution pipe and the idle air control valve are located. I also noticed that my coolant reservoir was empty, so I looked under my car to check for leaks and there were drops and a small puddle . Today I took my car to the shop and I was told it was and air coolant valve issue because it’s sending faulty signals and that it needs to be replaced. At first I thought that the issue had to do with the water distribution pipe due to the location of the leaked liquid and because in my view there is a strong connection with the coolant. So when I was told the idle air control valve was the issue I looked it up and found that coolant leaks don’t have a strong relation to that piece. I know that sometimes the internet can be wrong so I wanted to get more of an insight and some confirmation on whether a replacement is needed or not.  ",1,2025-07-12 17:51:47,https://www.reddit.com/r/MechanicAdvice/comments/1lyfwei/coolant_leakissues_caused_by_idle_air_coolant/,https://www.reddit.com/r/MechanicAdvice/comments/1lyfwei/coolant_leakissues_caused_by_idle_air_coolant/
+MechanicAdvice,Works sometimes?,"I have a 2002 mercury sable gs that I have as of right now fixed the fuel pump and brake line on. Long story short, I ended up stopping by bumping it into a wall when the brakes went out on my way to work and at the same time put the car into park from drive.  (yeah, yikes) didn't make the best sound.
+
+My speedometer and rpm gauge will work sometimes. Like, i will drive it to work, and they won't be on. Then, by the time I get off and start my car, they work on the way home or vice versa. Same thing for the odometer and temp gauge. What kind of power issue is this? I'm not sure if there is a speed sensor issue or a power issue because I got a code for (keep power alive voltage to low) but the readings on my alternator output are fine, im only unsure if it is a speed sensor issue because my transmission light is on after my mishap and i know they csn be related. Separate note my fuel pump gauge is stuck all the way up after I replaced the fuel pump, ended up getting a second fuel pump just in case and returning the other. ( the float is not stuck in the up position) I mention this because I'm unsure if they are related.
+
+Can anyone tell me a good place to start? I'm only 18 and don't have a lot of car experience. But I would love to be able to diagnose it myself. I just don't have the most time right now to diagnose it, and I haven't found much to be helpful elsewhere on the internet. So any information would be very helpful :)",1,2025-07-12 17:36:30,https://www.reddit.com/r/MechanicAdvice/comments/1lyflkf/works_sometimes/,https://www.reddit.com/r/MechanicAdvice/comments/1lyflkf/works_sometimes/
+MechanicAdvice,2019 Nissan Sentra bucket incident,"I was riding on the interstate and accidentally ran over a hard plastic bucket. I believe this is the site in which the bucket entered and then exited the back of the car. Afterwards I got the malfunction that is shown in the photos. My headlights no longer work but my turning signals and brights do. One time the car also beeped like I was about to hit something but I was just about to drive over a railroad track.
+
+I have no idea what the thing in circled in red is or if it has anything to do with the issue but it appears to be loose. I’ve read through an online manual but haven’t found anything that could help. Do you guys have any suggestions on what it could be and how it could be fixed?",1,2025-07-12 17:34:27,https://www.reddit.com/gallery/1lyfk3i,https://www.reddit.com/r/MechanicAdvice/comments/1lyfk3i/2019_nissan_sentra_bucket_incident/
+MechanicAdvice,Just bought a ‘94 GMC K1500 and having knock sensor issues,,1,2025-07-12 17:19:16,/r/ChevyTrucks/comments/1lyf8te/just_bought_a_94_gmc_k1500_and_having_knock/,https://www.reddit.com/r/MechanicAdvice/comments/1lyf96f/just_bought_a_94_gmc_k1500_and_having_knock/
+MechanicAdvice,Is it normal for a spark plug to be more worn out than the rest of them?,I had an issue with my Toyota Camry 2020 SE about the engine not getting enough power and the problem seems to be this spark plug. I replaced them all but I do not know if its normal for one to be way worse than the rest? I am new at fixing cars so I do not know. Thank you so much in advance!,20,2025-07-12 17:15:09,https://i.redd.it/muxp6qswajcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyf6d7/is_it_normal_for_a_spark_plug_to_be_more_worn_out/
+MechanicAdvice,Yukon burning oil,"My 2016 Yukon SLE is burning oil. It’s 115,000 miles and runs well I have no complaints but I fear there is an underlying issue that will pop up soon. I noticed oil was low when I got a warning on the dash and checked my oil. Now I check it more frequently and yes the oil is depleted. I know it’s not leaking as there is not a signal oil stain what should I be checking for? I hate to think the engine could get trouble down the line. 
+
+Also my battery meter in my dash does get low but never passes the little range mark in the middle so that I’m not too worried about.",1,2025-07-12 16:53:51,https://www.reddit.com/r/MechanicAdvice/comments/1lyeqpy/yukon_burning_oil/,https://www.reddit.com/r/MechanicAdvice/comments/1lyeqpy/yukon_burning_oil/
+MechanicAdvice,Please help identify what issue this might be? 2020 Ford Transit Connect 8 speed automatic,"My 2020 Transit Connect shifts somewhat hard in lower gears. Drives okay, but shifts a little rough. I've now noticed that at constant speeds, with constant throttle, the revs bounce up and down a bit. Kind of like it's making half assed efforts to shift, or the torque converter is trying to lockup but failing. It seems worse at 30-50 mph than at highway speeds. In the video I'm driving on a flat road with even throttle and speed.
+
+Things that make it better: driving without a load, putting it in slapstick mode and shifting down (keeping rpms above 3k seems like it eliminates it).
+
+Things that make it worse: driving with weight, being in too low of gear going uphill.
+
+Thank you for your insight!
+
+https://reddit.com/link/1lyenlw/video/a2nctcrr6jcf1/player
+
+",2,2025-07-12 16:49:42,https://www.reddit.com/r/MechanicAdvice/comments/1lyenlw/please_help_identify_what_issue_this_might_be/,https://www.reddit.com/r/MechanicAdvice/comments/1lyenlw/please_help_identify_what_issue_this_might_be/
+MechanicAdvice,"1973 Dodge D200 keeps dying, no symptoms","At a total loss. We've been towed home 3 times this week, including today because she just keeps dying while running with no other symptoms. 
+
+Everything I've fixed has gotten her up and running again so I keep thinking I've fixed the problem. She starts, runs and drives perfectly for like a day or two and then will die again and won't start back up. It's not seemingly a fuel issue as both float bowls are still right on, so fuel is getting to the carb. It seems to be electrical:
+
+The first time, I swapped the ballast resister and rotor. That got her running. Yesterday, after she died, I found a bad connection to the ignition module thing that connects to the distributor. Fixed that and she fired right up. I assumed I had found the problem so I took her out today, and she got stuck on the highway. 
+
+Ballast resister is new, wiring all looks fine now, I seem to be getting proper voltage everywhere, the ignition coil is pretty new and is an MSD blaster.
+
+My last guess is maybe the distributor bushings are cutting out when they are getting hot. Otherwise, I'm at a total loss what to check from here? 
+
+Thanks! ",1,2025-07-12 16:44:26,https://i.redd.it/ovslj2bp4jcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyejq5/1973_dodge_d200_keeps_dying_no_symptoms/
+MechanicAdvice,Headroom Issues (1999 Mazda Xedos 6/Eunos 500 2.0),"Hi all, I own what is now a very rare in the UK, but not valuable, Mazda Xedos 6 (called Eunos 500 in most other markets). I absolutely adore the car, and even though it currently has a plethora of issues, I am planning on doing it up to concourse standards. I do not, however, fit in the car. I'm 6 foot and my head ends up in the hatch for the sunroof, a couple of cm above the headlining. Yes, units of measurement in the UK make no sense at all.
+
+  
+Point is - I was wondering if there is any way modify either the seat or its base to allow it to sit lower in the car than anyone ever intended it to. Yes, it is as low as it normally goes. The seats are fully electric, and although the motor still whirs, the seat will not sink any lower. Does it make economical sense to lower the seat instead of buying a different car? No. But then neither does doing the old shitbox up. 
+
+I'm aware it may alter how I would interact with the only airbag the car has, but then it's a 90's Japanese car sold in the UK, so the airbag may well be a European-made Takata airbag that would just launch shrapnel at me anyway but it was never recalled because Takata said that it would be fine if it was made in Europe. Recently Citroën have very much found out it's not. Thanks Takata!
+
+  
+Wow, got a bit off topic there. I would be so very grateful for any advice, irrespective of its quality. Also, does anyone know if I need my airbag looking at? Seriously, it's somewhat concerning. Thanks all!",1,2025-07-12 16:37:23,https://www.reddit.com/r/MechanicAdvice/comments/1lyeej2/headroom_issues_1999_mazda_xedos_6eunos_500_20/,https://www.reddit.com/r/MechanicAdvice/comments/1lyeej2/headroom_issues_1999_mazda_xedos_6eunos_500_20/
+MechanicAdvice,Why’s this value red,"It’s a 2013 Silverado 3500 6.0L, it came in with a p0300 code, cleared out, but no other codes. Fuel trims were all in the negative (8-18%), we repaired vacuum leaks, new MAP and new MAF, it’s running better, still misfiring intermittently on random cylinders on test drives but only 1-4 per cylinder misfires per run cycle, it was misfiring 50-130 per run on cyl 7, and at the same time misfiring on random cylinders. But this value never changes, except when I turn the truck off and do KOEO, and it’ll drop to .5-.9, am I looking too far into this value? Is my scanner not reading it correctly? Or am I missing something causing this issue?",1,2025-07-12 16:23:20,https://i.redd.it/eivkft5p1jcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lye3t5/whys_this_value_red/
+MechanicAdvice,08 impala no start - what could be causing this?,"A few weeks ago my 2008 Impala LS (3.5L V6) randomly wasn't starting. I tried jumping it and using a different battery before changing the starter, but I had the same issue. It's randomly started twice before changing the starter and once after. The voltage also would drop to 5v when turning the key. I'm unsure what to do next.",1,2025-07-12 16:03:14,https://v.redd.it/pveti233yicf1,https://www.reddit.com/r/MechanicAdvice/comments/1lydodb/08_impala_no_start_what_could_be_causing_this/
+MechanicAdvice,My car keeps having weird electrical faults (turns on by itself at night),"I have a hyundai i10 2008. It's had an awful streak of weird electrical faults recently. 
+
+My key fob would no longer work for unlocking the car so I had to resort to the key. My windows got stuck open, then at the same time, unlocking the car with the key would cause my back window wiper to move a few inches every time. When my window's got stuck open I tried changing a few fuses and that didn't fix it, the window fuses were fine. However the unlock fuse was not and I changed it which ended up fixing the unlock mechanism on all doors and I could open the car again with my fob. But now, if I lock/unlock the car with the key, it'll set the car alarm off. So I've resorted to the fob only. I had to take it to an electrical mechanic to get the window back up but after reciving it, I now had a yellow ABS light on my dash when the car is running. 
+
+I chalked that up to him fixing some wiring. The car felt no different when breaking heavily so I'm not sure if it was just a faulty sensor. Then fast forward to now and I find my car's break lights on in the middle of the night when all lights should be off. So I go out, turn the car on and off and lock it. About an hour later same issue, but now when I look inside all the electrics are on as if I've turned the car on with no key in it. So I once again do the same and it doesn't turn off. I open and close the door a few time and turn it on and off again which gets it turned off. 
+
+So now I've just fully disconnected the battery and left the car unlocked because I don't want it setting the car alarm off some how at midnight. Not sure what to do, I've got a different mechanic this time to have a look but I'm really not sure what's going on with it and if anyone had any similar issues or ideas?",1,2025-07-12 15:53:04,https://www.reddit.com/r/MechanicAdvice/comments/1lydgg1/my_car_keeps_having_weird_electrical_faults_turns/,https://www.reddit.com/r/MechanicAdvice/comments/1lydgg1/my_car_keeps_having_weird_electrical_faults_turns/
+MechanicAdvice,Weird electrical? Issue,,1,2025-07-12 15:42:32,/r/chevycolorado/comments/1liwsio/weird_electrical_issue/,https://www.reddit.com/r/MechanicAdvice/comments/1lyd8fn/weird_electrical_issue/
+MechanicAdvice,mitsi 2008 2.2 diamond outlander issue,"hoping to find a bit of advise here on an issue with my 2.2 outlander which i believe is the ford engine.
+
+Car has been super reliable over the last 12 years but recently just stopped at a junction and wasn't able to get her started again, the value of the car is now very low so it doesn't make sense to put it into a garage and end up paying out more than the cars worth to have it repaired, so ideally i would diagnose myself and decide if worth repairing.
+
+I have tested the fuel pump which seems ok, it turns over and tried spraying break cleaner in the inlet and still wouldn't start. I have put a scanner on and it comes up with P1351 fault which seems to point at different things for different manufactures and suggests ignition system fault possibly the glow plugs on a Mitsubishi, which doesn't really explain why it wont start at all especially in the summer and the engine was running and hot when it stopped. This may just be an historical fault and nothing to do with it not starting.
+
+Unfortunately I'm not clued up to know if its possible to test the fuel pressure at the injectors or high pressure pump to know if there is a fuel issue or my other thought was perhaps a faulty immobilizer but surely that wouldn't have caused the engine to just stop, or maybe its an issue with the ECU.
+
+Any advise on how someone might tackle diagnosing an issue of this kind would be greatly appreciated as i don't want to give up on the old girl as she has been in the family for quite some time and although not much of a looker anymore mechanically and structurally she is very good and potentially plenty left to offer.",1,2025-07-12 15:41:19,https://www.reddit.com/r/MechanicAdvice/comments/1lyd7iz/mitsi_2008_22_diamond_outlander_issue/,https://www.reddit.com/r/MechanicAdvice/comments/1lyd7iz/mitsi_2008_22_diamond_outlander_issue/
+MechanicAdvice,Does my alignment seem corrected?,"2021 G63, originally had an alignment issue where the car pulled to the right and the steering was tilted to the right. Took it to the Benz dealer, and got an alignment. Now the car steering is tilted slightly to the left and the car still pulls slightly to the right? I am bringing it back Monday but wanted to see what I should explain to have fixed. Attaching the pic of the alignment spec sheet for before and after.",1,2025-07-12 15:23:24,https://i.redd.it/qoorl0a0ricf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyctgb/does_my_alignment_seem_corrected/
+MechanicAdvice,ABS and Traction lights both turning on and off,"Okay so I was on vacation for 2 and a half weeks, car wasn't turned on. Came back on Wednesday night, turned on car on thursday, drove 2+ hours no problems at all. Turned on my car yesterday morning and both ABS and Traction lights were on. This morning i was backing out of my driveway, the lights turned off. Even got my car scanned and it was clear of codes. Nothing wrong. Turned on my car 2 hours ago and both lights are back on. What could be the issue??",1,2025-07-12 15:16:13,https://www.reddit.com/r/MechanicAdvice/comments/1lycnv7/abs_and_traction_lights_both_turning_on_and_off/,https://www.reddit.com/r/MechanicAdvice/comments/1lycnv7/abs_and_traction_lights_both_turning_on_and_off/
+MechanicAdvice,Honda Accord 2007 Crank No Starting Issues,"Green key is flashing which made me think it was mostly a Immobilizer issue so I then tried to get a key program and my obd2 port wasn’t working, changed both fuse boxes and and computer under the radio area, I was told my key can’t be programmed without a battery or check engine light but others insisted it was a bad cluster, can anybody with some experience guide me in the right direction please and thank you.
+",1,2025-07-12 14:45:01,https://v.redd.it/pvwxeki5kicf1,https://www.reddit.com/r/MechanicAdvice/comments/1lybzsq/honda_accord_2007_crank_no_starting_issues/
+MechanicAdvice,Please help,2015 Jeep Grand Cherokee Overland 3.6 non diesel engine. Just replaced battery and alternator and the car is saying low battery voltage. Looked at the wiring everything is in proper. Ran a multi meter on alternator and it’s reading perfect. What could be the issue? ,1,2025-07-12 14:43:15,https://www.reddit.com/r/MechanicAdvice/comments/1lybyed/please_help/,https://www.reddit.com/r/MechanicAdvice/comments/1lybyed/please_help/
+MechanicAdvice,3TDI oil pressure,"Hi i have a 3.0tdi BUG 233hp engine one day the low oil pressure came up and i changed the pressure monitor  sensor and still it was going on 
+Put in new oil 5w40 it had around 400k km on odo...
+When changing the oil mechanic said its good dont worry 
+And got to the highway and the car died after 70km...turns out the turbo was shot dpf clogged 
+Etc so we did a full maitnance new chains,guides,hex,oil pump  turbo,intakes,all seals and
+Dpf cleaning 
+0w30 oil
+Did an oil pressure test with gauge and it failed with 0.2 bars below minimal pressure of 4 bars 2krpm 90c oil temp
+At that point the mechanjc said the car is very smooth and he couldnt catch it had bearing issues 
+""We need to pull the engine out again""
+
+So i took it to another mechanic and told him to swap the engine with another one with all those parts 
+
+Real question is did i make the right decision???!
+It already cost me alot of money like half the value of the car 
+Ofc if the engine is good its ok but a rebuild is too much now 
+But that 0.2 bar pressure fkd it all up 
+
+
+
+
+
+
+
+
+
+
+",1,2025-07-12 14:35:08,https://www.reddit.com/r/MechanicAdvice/comments/1lybs22/3tdi_oil_pressure/,https://www.reddit.com/r/MechanicAdvice/comments/1lybs22/3tdi_oil_pressure/
+MechanicAdvice,Where to pour used motor oil into?,"Came here after finding [this post](https://www.reddit.com/r/MechanicAdvice/comments/169ajzt/what_should_i_do_with_leftover_new_oil_during_a/) from this subreddit on google. Basically, I always overfill my oil so that I can do the following:
+
+* Empty oil into pan
+* Pour new oil into car (whole 5qt, overfilling it since it only needs 4.25qt)
+* Pour old oil from pan into the now-empty bottle
+* Bring bottle to shop for disposal
+
+But I want to stop overfilling my oil, and keep the leftover unused oil handy for necessary top-ups and eventually maybe a free change if I accumulate enough.
+
+But the problem is, if I'm keeping 0.75qt in the garage in the bottle, where do I pour the used oil? This is only a one-time issue I think, since the second time I can combine the excess unused oil from the first change and the second one, then I have an empty bottle that the waste can go into.
+
+Google says an empty milk jug is a bad idea since only certain plastics are designed to handle motor oil and may cause a leak, which is why we use the new bottle anyway.
+
+Edit: original post used liters instead of quarts.",1,2025-07-12 13:46:29,https://www.reddit.com/r/MechanicAdvice/comments/1lyaor3/where_to_pour_used_motor_oil_into/,https://www.reddit.com/r/MechanicAdvice/comments/1lyaor3/where_to_pour_used_motor_oil_into/
+MechanicAdvice,"2000 Accord V6 – New belt installed, now a pulley stopped spinning at idle with high-pitched noise. Need advice.","Hey y’all. I’ve got a 2000 Honda Accord EX Coupe V6 with around 212k miles. Not long ago, the old serpentine belt snapped—it was dry-rotted and brittle. I replaced it with a brand-new belt, and now I’m running into an issue I didn’t expect.
+
+After letting the engine idle for a few minutes post-install, I noticed some light squeaks and a faint whirring noise from the belt area. To simulate a light load, I turned on the headlights and A/C—nothing too crazy, just wanted to see how the system handled it.
+
+That’s when I heard a high-pitched squeal, and I saw that one of the pulleys stopped spinning while the belt was still moving. I immediately shut the engine off.
+
+I haven’t restarted it since. My guess is that either the belt tensioner, idler pulley, or possibly the A/C or alternator pulley seized up under load. I don’t want to damage the new belt or make things worse, so I’m stuck debating if I should even risk driving it or just tow it.
+
+My questions:
+	•	What’s the best way to identify which pulley is seized? (Engine is off and cool now.)
+	•	Could this have been caused by a weak tensioner or some other related failure?
+	•	Is it too risky to drive 20 minutes to work or a shop, or is that just asking to snap the new belt?
+	•	Anything else I should check while I’ve got the hood open?
+
+I don’t have the tools to pull the belt off again at home, but I can spin pulleys by hand and visually inspect things. Any advice would help a lot—thanks in advance.",1,2025-07-12 13:38:23,https://v.redd.it/vmjh7vk78icf1,https://www.reddit.com/r/MechanicAdvice/comments/1lyahxr/2000_accord_v6_new_belt_installed_now_a_pulley/
+MechanicAdvice,BMW 328i,"I hope this is the sub to ask this and if not, please let me know which is if possible.
+Next week I will be getting a 2011 BMW 328i  coupe with 117,000 miles on it for a very cheap price b/c of who it's coming from but i don't think it is the car for me, being a single mom and it being older, higher miles and 2 door but the price is to good to not take it. My question is where would you suggest going to potentially find a either buyer or trade for this for something I can actually use for my daughter and I? 
+I'm going to get a workup on it to see exactly (if anything) might be an issue because I want to be sure of what I would be selling/trading to another person. Im just looking to get enough to get a used 4 door, nothing fancy family friendlier vehicle. I feel like maybe a person who is car savvy and could do most things that might come up with it themselves would be best and I definitely would like to avoid a dealership trade in b/c I'm not wanting a car payment. 
+I'm based out of the Philadelphia area
+Thank you 
+I can give more details if needed to someone that is able to give me a place to start ",1,2025-07-12 13:38:13,https://i.redd.it/d7utike88icf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyaht1/bmw_328i/
+MechanicAdvice,2014 Hyundai Elantra SE decreased gas mileage,"2014 Hyundai Elantra SE, eighth VIN digit E. 137k miles, not sure on the engine type.
+
+Gas mileage on my car has gone from 30-32 down to 20-22 (and even lower if it's city driving) this past week. I've noticed that it has an occasional loud hum whenever I'm driving but not when it's idling, though I'm not sure if that's relevant. It's been about 1.2k miles/a month since my last oil change, no check engine light and no issues til the last week. It's not been overheating even in 95°F weather and it doesn't feel like the car is pulling to one side or another. Honestly just not sure what it could be or where to even look, I've had no other trouble with this car before now other than the brakes sometimes grind even though they look fine.",1,2025-07-12 13:26:54,https://www.reddit.com/r/MechanicAdvice/comments/1lya880/2014_hyundai_elantra_se_decreased_gas_mileage/,https://www.reddit.com/r/MechanicAdvice/comments/1lya880/2014_hyundai_elantra_se_decreased_gas_mileage/
+MechanicAdvice,2015 Grande Cherokee Limited 3.6L thermostat issue,"I am having an issue of the engine overheating every 6 months. This is my 4th Mopar thermostat i have replaced which temporarily fixes the issue only for it to spontaneously happen again. I’ve taken it to one different mechanic other than the one i generally go to and both were unable to diagnose a bigger problem than the thermostat every time. The newest overheating issue happened a ways away from home and I had dropped it off at a mechanic i’ve never been to because the tow back home was might expensive. He ended up changing the thermostat with a Duralast part (even though i specifically told him if it ain’t OEM don’t change it) and experienced the same issue on the way out of he shop. Bought it back, it seemed to stabilize, but every cold start i’m experiencing a influx in the heat indicator, hits a limit near the H, and stabilizes to a point higher than the usual that i’ve been seeing (since i’ve been having this problem for years my eyes always on the gauge and this time around it definetly sits higher when it’s “stable”).  Seems to always happened around the summer time and intermittently in other times of the year
+
+I’ve run out of ideas. Checked the oil for any leakage into oil, tried to let the air out of the system through the radiator cap, made sure the tubes were being fed fluids (my test was that if they are hot, it’s flowing), did full coolant flushed every time the mechanics changed the thermostat. I cannot for the life of me seem to find the underlying issue and neither can multiple opinions kf the mechanics. I’m afraid it’s the water pump (since this models seems to have a commons issue) but i’m not educated enough on cars to know how to diagnose that.
+
+Any help would be appreciated. I am tired of having to tow this thing out of the blue all the time. Working on getting Mopar coolant and another MOPAR thermostat to change out the aftermarket part because that definetly is not acceptable.
+
+Thanks guys.
+
+EDIT: Just tried to run on a cold start to see if behavior remaained after what seemed like me getting the air out of the system. I see the gauge going higher and i pop the hood, to see the reservoir empty. Immediately shut off the car and now looking around for signs to as to why this happened all of a sudden…",1,2025-07-12 13:26:26,https://www.reddit.com/r/MechanicAdvice/comments/1lya7su/2015_grande_cherokee_limited_36l_thermostat_issue/,https://www.reddit.com/r/MechanicAdvice/comments/1lya7su/2015_grande_cherokee_limited_36l_thermostat_issue/
+MechanicAdvice,Help please,"Hey guyz i just did valve gasket replacement pn 2004 acura tl , everything is put together now there is no lights on dash and car just cranks but wont start , what is the issue here i couldn’t find any ground disconnected",1,2025-07-12 13:23:33,https://www.reddit.com/r/MechanicAdvice/comments/1lya5cv/help_please/,https://www.reddit.com/r/MechanicAdvice/comments/1lya5cv/help_please/
+MechanicAdvice,AC problems on 2016 Audi A3 e-tron,"AC works intermittently. Blows really cold when it works, but very warm air when it doesn't (much warmer than ambient outside air).
+
+Had it at Audi dealership twice where they charged me $200 for inspection and pressure check, but they never found a problem. I Really don't wanna go back to have them do the same thing again.
+
+The only identifiable thing for me who have no clue about engines is that the part in the pictures make a loud clicking sound every 2-3 seconds whenever the AC is not working and is quiet whenever it works.
+
+So my question is, what is this red thing, and could it be connected to my issues at all?",1,2025-07-12 13:08:47,https://www.reddit.com/gallery/1ly9sys,https://www.reddit.com/r/MechanicAdvice/comments/1ly9sys/ac_problems_on_2016_audi_a3_etron/
+MechanicAdvice,"1994 GMC Suburban k1500 turns, tries to start, but stops","So I am at a loss with this issue.
+
+About 3 months back I started a job replacing the gaskets on my truck, and it became half a rebuild. I did the valve seals, the head gaskets, the whole bit. I got it back together, and it wont start.
+
+The engine turns, it tries, then it dies. It acts like its getting too much air. If I give it gas, it revs, dies down from air dump.
+
+I replaced the idle air control already. Rebuilt the TBI. 
+
+I am at a loss for what to do other than just sell it at this point.
+
+Video of the problem
+
+No starty https://imgur.com/gallery/NTPYHRu
+
+",1,2025-07-12 12:51:28,https://www.reddit.com/r/MechanicAdvice/comments/1ly9eq3/1994_gmc_suburban_k1500_turns_tries_to_start_but/,https://www.reddit.com/r/MechanicAdvice/comments/1ly9eq3/1994_gmc_suburban_k1500_turns_tries_to_start_but/
+MechanicAdvice,98 XJ 4.0 AW4 shifting help,"Cross posted issue but unable to get help so trying here. Got a 98 XJ 4.0 with the AW4 transmission and 231 transfer case. Mileage is unknown on either transmission in question.
+
+Jeep quit wanting to move in either drive or reverse, replaced with a junkyard torque convertor and fixed the issue but it is happening again. Bought a new torque convertor and doesn't fix the issue.
+
+I also replaced the transmission with the one from my parts jeep due to the shifter stud on my original transmission broke.
+
+The 231 transfer case I put a SYE kit on to accommodate the longer rear driveshaft for my lift kit.
+
+I've drained the fluid, replaced the filter and refilled with dex atf fluid. Fluid level shows correct on the dipstick.
+
+When I put the vehicle in drive it takes off. Had the rear end up on jackstands and when I put the jeep in drive the rear passenger started spinning with my foot on the brake.
+
+Could I have a faulty solenoid? Also when vehicle is running and in park I can hear a squealing from the bell housing area which makes me fear the transmission seal.
+
+Any suggestions is appreciated!",1,2025-07-12 12:44:41,https://www.reddit.com/r/MechanicAdvice/comments/1ly994x/98_xj_40_aw4_shifting_help/,https://www.reddit.com/r/MechanicAdvice/comments/1ly994x/98_xj_40_aw4_shifting_help/
+MechanicAdvice,Alignment Questions,"First off I have a 2000 Mustang GT which I replaced the inner and outer tie rods. I got the inner tie rods from rock auto wholesale close out, however when they arrived one of them looked used and although they both fit they were clearly different brands. In the grand scheme of things does this matter? The wheel is off center now. Would getting an alignment fix this or should I order new matching inner tie rods?
+
+Second I have a 2015 Scion FRS which also has an off center steering wheel. I have had the car aligned twice and the wheel still isn’t straight. The shop told me to get camber bolts so they can finish the alignment.
+
+I suspect the steering angle sensor has failed due to an abs and traction control light.
+
+Does the steering angle sensor have any input on the alignment? Maybe the sensor is off center and as a result the alignment machine thinks the wheel is straight when it is actually turned? Or maybe their machine is just wack? When they did the alignment the second time the rear camber changed a whole degree, which is wired because the rear camber is non adjustable.
+
+Most likely I will get the camber bolts and bring it back and ask them to road test it before and after to make sure the issue is fixed.",0,2025-07-12 12:35:36,https://www.reddit.com/r/MechanicAdvice/comments/1ly91sm/alignment_questions/,https://www.reddit.com/r/MechanicAdvice/comments/1ly91sm/alignment_questions/
+MechanicAdvice,Water noise,I have a 22 Toyota Camry and recently I have been hearing some water noise specially from the dash more closer to the passenger seat. I can only hear the noise from the inside. Did this someone face this issue before? If yes how did you fix it,1,2025-07-12 12:11:08,https://www.reddit.com/r/MechanicAdvice/comments/1ly8h67/water_noise/,https://www.reddit.com/r/MechanicAdvice/comments/1ly8h67/water_noise/
+MechanicAdvice,AC Issues Honda Civic ‘17,"My sister’s 2017 Honda Civic has been having AC issues. We are driving from Arizona to Georgia, and half way through is when I noticed the issues. At the beginning of the trip, we noticed that the passenger side has much colder air blowing than the drivers side. We kept going and half way through we stopped and when I turned the air back on, the vents in the passenger side started blowing small ice chips at me. When we turned the front windshield air on, it blows on feet, then switches to windshield, then blowing at us. I checked the cabin air filter and it was not clogged. I’m assuming it may be an AC leak or we may need to drain and recharge (after patch if needed?). Potentially blower motor issue? Could it be the sensor? Is there anything we can do before we bring it in when we get to Georgia? ",1,2025-07-12 11:49:53,https://www.reddit.com/r/MechanicAdvice/comments/1ly7z1h/ac_issues_honda_civic_17/,https://www.reddit.com/r/MechanicAdvice/comments/1ly7z1h/ac_issues_honda_civic_17/
+MechanicAdvice,Loud rattling/grinding noises from engine for first few seconds when starting from cold,"Hello.
+
+I have a 2006 KIA Sedona EX, which I bought new when it came out. 225000 KMs. It still runs very reliably. I am actually quite impressed how well built this thing is.
+
+However, it is also showing its age, and there are issues that aren't affecting it's continued use as family van. For example, the engine leaks oil from probably every nook and cranny so I have to top it up every once in a while. The mechanic said that given the age of vehicle, and the cost to diagnose and fix, just accept it as part of owning an old van. So, I have. LOL
+
+**What brings me to you fine folks for advice** is an issue that has started to bother more and more every day. **This issue started about 3 or so years ago**. Initially, it was sporadic and will only happen once in a while, and then it started to get more regular, and now for about 6-8 months it happens almost every time the van is started from cold.
+
+**Here is the issue:** When the van is started from cold (for example: parked overnight), there are loud rattling/cranking/grinding noises from engine for the first few (\~5 or so) seconds, which go away, and then the engine runs smoothly and quietly like nothing's wrong. Chances of these noises coming up when engine is started from ""hot"" (for example, starting after coming out of a store, etc.) are very low. They still happen but only once in a blue moon when starting from hot and go away very quickly and are also not as loud and scary. I showed it to two mechanics and they both had different guesses such as timing belt, oil pump, etc. But none of them advised to have it opened and fixed saying that the van is too old to justify such expensive diagnosis and repair.
+
+Any tips or guesses as to what might be wrong? Is the van taking its last breaths?",1,2025-07-12 11:45:37,https://www.reddit.com/r/MechanicAdvice/comments/1ly7vfo/loud_rattlinggrinding_noises_from_engine_for/,https://www.reddit.com/r/MechanicAdvice/comments/1ly7vfo/loud_rattlinggrinding_noises_from_engine_for/
+MechanicAdvice,Engine stalling after oil change and flush,"I have a 2003 Honda Civic. The mechanic performed an oil flush and change on it. When I picked it up, the car seemed to idle rough, the shop told me it's just ""taking in the new oil"", they said I can bring it back after the weekend and they can take a look if I wanted to. I drove it home (12 minute drive) and the car stalled multiple times, the shop had closed at the point when I realized that driving it home was not a good idea.  
+The engine would stop responding and the rpm drop to zero and its stalls.  
+I left the car to cool down then checked the dip stick and it seems that the oil is overfilled (see photo). Could this be the issue? Or could it be that the oil flush messed up the engine? Do I need to tow the car back to a mechanic?
+
+PS: The car was leaking oil and the mechanic was supposed to add oil with dye, the bill says they added 3.7 quarts of oil and replace the oil filter.",1,2025-07-12 11:43:37,https://i.redd.it/59ktcg9rnhcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1ly7tpx/engine_stalling_after_oil_change_and_flush/
+MechanicAdvice,Evap issue,"Trying to figure out and evap code I've got, these reading fluctuate, vp goes anywhere between +150 to -600 i know it could be a number of things just trying to get a better idea of what im dealing with. Code i keep getting is P0456. Any help would be nice",1,2025-07-12 11:31:02,https://i.redd.it/nx6kg5rjlhcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1ly7j67/evap_issue/
+MechanicAdvice,2002 Highlander Weird sound,"Hey all,
+
+I bought a 2002 Toyota Highlander (V6 FWD) back in November with ~200k miles. Since then, I’ve done basic maintenance — spark plugs, oil, and brakes. I’ve driven about 7,000 miles so far (mostly highway).
+
+When I first bought it, the CEL was on with code P0330 (Knock Sensor 2, Bank 2). My mechanic said it wasn’t urgent and I could drive it as-is.
+
+Recently, I decided to clear the code to see if it would come back. After clearing it, I noticed a low hissing or rattling sound, but only when the car is in gear and moving; it doesn’t happen while idling or in neutral. It’s especially noticeable in lower gears like 2nd.
+
+Strangely, when the P0330 code comes back and the CEL turns on again, the sound disappears.  I've also noticed the sound sometimes even with the CEL on recently. There’s also an evap leak code P0442 (which I think is unrelated).
+
+I’m not sure how to diagnose this. Could it be related to timing, detonation, or just the sensor lying? I’m even considering selling it if it’s a deeper issue.
+
+Any insights would be appreciated.",1,2025-07-12 11:26:38,https://www.reddit.com/r/MechanicAdvice/comments/1ly7few/2002_highlander_weird_sound/,https://www.reddit.com/r/MechanicAdvice/comments/1ly7few/2002_highlander_weird_sound/
+MechanicAdvice,1998 Camry 2.2,"Hello I recently installed my oil pan gasket oil pump and water pump. My issue is I am about to install my timing belt I have the cam shaft sprocket top dead center and I need to get the crankshaft TDC as well. Is there anything I can do to move it so it aligns with the timing mark, or what should be my next step? This is my first time working on my car 1998 Camry 2.2 ",1,2025-07-12 11:17:09,https://i.redd.it/3sn631l2jhcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1ly773v/1998_camry_22/
+MechanicAdvice,Dodge Ram 2016 1500 Express A/C issues,"I’ve taken my truck to a mechanic a few times and we can’t seem to solve the problem. Here’s what’s going on:
+
+My A/C goes out whenever it runs on full blast. I can run it with the knob about 3/4 - 4/5’s of the way and it runs just fine. Anytime I run it on full blast, it cuts off in about 2-10 minutes (depending on how hot it is).
+
+What we’ve tried:
+
+First we replaced the blower motor. Seemed to work for about a week, then the issue started again. Next, we replaced the relay for the blower motor. Didn’t fix it at all. 
+
+The only other detail I have is that it works perfectly fine with the heat. I can run the heat on full blast and it won’t cut off. 
+
+Has anyone ran into this issue and solved it? My mechanic thinks it might be an electrical issue with the knob, but we haven’t had a chance to try that out. I’m in Houston, so I’d like to run my A/C full blast in the summer haha. ",1,2025-07-12 11:15:01,https://www.reddit.com/r/MechanicAdvice/comments/1ly75b2/dodge_ram_2016_1500_express_ac_issues/,https://www.reddit.com/r/MechanicAdvice/comments/1ly75b2/dodge_ram_2016_1500_express_ac_issues/
+MechanicAdvice,"GMC Sierra 2019+. Fuse 46 blown, no crank, engine staling","Hi all,
+
+I'm local mobile mech and was asked to diagnose an issue. The car staled and didn't crank, fuse 46 was blown and every time owner put a new fuse - it blowns up immidiately, if the ignition is on.
+
+I've tested with multimeter current, resistance and continuity + diod testing. Tested wires from battery to the fuse, from fuse to the ECM module, tested relays with 12v - everything works fine and showed correct values. Next stop was the ECM module. I've took it out and tested at home with the connectors scheme. It seems to be fine, though it can fail under the load, so that was my suggestion.
+
+ The next day I've put it back and the car just started without any issues. Customer said its ok for him and he drove it for the next month or so without any issues, untill the car stall on the highway. He was able to move it on the shoulder. 
+
+This time I've checked more carefully - fuse box, all upper fuses including those on the battery clamp.
+
+Checked without alternator, without battery control module, etc.  - fuse still blow every time I try to start the engine. 
+
+Checked direct start through relay to initiate the starter - starter was spinning just fine. 
+
+Any ideas or suggestions what can it be?
+
+ ",1,2025-07-12 10:38:00,https://www.reddit.com/r/MechanicAdvice/comments/1ly695g/gmc_sierra_2019_fuse_46_blown_no_crank_engine/,https://www.reddit.com/r/MechanicAdvice/comments/1ly695g/gmc_sierra_2019_fuse_46_blown_no_crank_engine/
+MechanicAdvice,Weird overheating?,"Not the best title. My girlfriend and I took one our cars, a 2013 Chrysler 200 2.4 (87,000 miles) , from MO to AZ. From the get go, it did just fine, held stable temperature and got us through most our day. 3 pm hit and just after Oklahoma City we overheated, coolant bubbling, and had to call roadside assistance to replace the thermostat. It temporarily fixed the issue. When we parked in Amarillo that night I wasn’t sure if I could hear it bubbling but it was holding stable temp and I was beyond delirious from driving all day so we went inside. Chilly early morning the next day and we make it to about 12/1 pm before we break down again, this time in New Mexico. We get towed 30 minutes to the next town. Mechanic there says there’s air in the system, makes a lot of sense, again temporarily fixes the issue. At this point we are both exasperated, I’m an apprentice mechanic way in over my head and she’s a girl with a shitty car from her grandpa. We’re both just on the way to see family. So at this point we call her sister to meet us about 4 hours out of Phoenix AZ, we drive 1.5 hours from NM to the meet up spot and swap cars. We drove her sisters Cruze as she drove the Chrysler. I have to admit the Rocky Mountains are gorgeous, but I was doubting the Chrysler making it up them. About one more hour left and the Chrysler is overheating again, it gets to a point where we’re parking and letting it cool every ten minutes, limping it back to a mechanic to park at.
+
+Basically, it’s gotten flush after flush, air sucked out, killed 3 thermostats in its entire life, no leaks and still can’t keep its cool??
+Confirmed it’s not exhaust gases, a head gasket, the main thermostat, or any of the “common denominators”. Curious to see what you guys might think, this thing is giving me a damn run for my money !",1,2025-07-12 10:35:55,https://www.reddit.com/r/MechanicAdvice/comments/1ly67an/weird_overheating/,https://www.reddit.com/r/MechanicAdvice/comments/1ly67an/weird_overheating/
+MechanicAdvice,"Car has a whine when accelerating and holding high revs, sound started recently. 2012 Kia forte LX, 2.0L 4 cyl, about 280k miles, any ideas as to whats going on? Please and thanks","The sound becomes audible just shy of 2k RPM and gets louder as it climbs, a friend said it could be a sign of the head gasket wearing out but im not particularly sure as to what it could be. plan on taking it into the shop in a few days.
+
+If it is a head gasket issue, about how much would that cost to replace? I have seen estimates ranging from 2 thousand to 5 thousand dollars after parts and labor.",2,2025-07-12 10:27:27,https://v.redd.it/l4st09t6ahcf1,https://www.reddit.com/r/MechanicAdvice/comments/1ly5zwc/car_has_a_whine_when_accelerating_and_holding/
+MechanicAdvice,"P0340, P0641, P2106 Codes on 2006 Hyunda Sonata 3.3L","I'll list the issues/story short and sweet.
+
+\- A/C compressor and clutch went bad, so replaced both. Also while in there replaced the A/C pressure sensor (with a non denso sensor).
+
+\- Took out and changed the power steering reservior and had to unplug the powerr steering sensor (no new sensor).
+
+\- Replaced the intake manifold gaskets. (Had to take off the throttle body and unhook several sensors on the wiring harness to access the manifold)
+
+After I buttoned up the car. I recieved these check engine codes. The car also has an ESC light on and goes into limp-mode.  
+The car idles perfectly. You can clear the code, drive around and the car feels fine. But once you turn off the car and turn it back on, the code reappear.
+
+\- Checked the cam sesnors. They are getting voltage.
+
+\-I got continuity from the wiring harness to the grounds while the car was off) (running on just battery power). But when I had the car running I wasnt able to get continuity to a ground.
+
+\- Took it to a mechanic, he couldn't find the issue (he said he wasnt an ""electical shop"" but gave me another shop that specalizes in it).
+
+Is it a bad ground? A/C sensor (since its not a denso)? Broken wire in harness? Bad accelorator pedal?
+
+Help.",1,2025-07-12 10:24:15,https://www.reddit.com/r/MechanicAdvice/comments/1ly5x3s/p0340_p0641_p2106_codes_on_2006_hyunda_sonata_33l/,https://www.reddit.com/r/MechanicAdvice/comments/1ly5x3s/p0340_p0641_p2106_codes_on_2006_hyunda_sonata_33l/
+MechanicAdvice,2013 Infiniti JX35 CVT — Still Hesitating After “New” OEM Transmission,"Hi everyone —  
+  
+I could use some advice on my 2013 Infiniti JX35 (about 98K miles) and its CVT transmission.  
+  
+The car ran fine until I took it to a local Nissan/Infiniti specialty shop in South Florida for routine maintenance, including a CVT fluid change. Right after that, the transmission started acting up, and they scanned it — showing the CVT judder code.  
+  
+They referred me to a transmission shop, which confirmed the judder code and told me the CVT was shot and needed replacement. They recommended a brand-new OEM CVT from Infiniti, warning that rebuilds often fail. I agreed and paid about $8K for the job, which included new mounts, a 1-year shop warranty, and supposedly a 3-year Infiniti warranty on the transmission itself.  
+  
+After a week, I picked up the car, but it still hesitated under load. The transmission shop said it was likely an engine issue. I went back to the first shop, which scanned it again and still found the CVT judder code. Back to the transmission shop — they reprogrammed the TCM and it seemed OK for a day.  
+  
+After driving it more, the hesitation returned and has been getting worse. I also noticed an oil leak, which seems to be coming from the transmission. When I looked under the car, I noticed:  
+
+
+* Part of the transmission looks old while another part looks new. (see photos of what appears to be two halves one old one new)
+* The fluid fill port still has the same mark and broken clip as my old transmission.(last photo)
+
+  
+The shop owner has been attentive so far and asked me to bring it back at the end of the month, but I’m concerned whether they actually installed a brand-new OEM CVT like I paid for.  
+  
+I’ve attached photos of the transmission for reference.  
+Does this look like a proper brand-new OEM unit?  
+Is it normal for some parts to look old and others new?  
+And does it make sense that I’m still getting the judder code after all this?  
+  
+Thanks in advance for any advice or insight.
+
+https://preview.redd.it/em9to3i59hcf1.png?width=591&format=png&auto=webp&s=90083c70ce4b509db7e348c6598f893735acae76
+
+https://preview.redd.it/pgq8y4i59hcf1.png?width=591&format=png&auto=webp&s=49c0f879b52a57c7b857e804d4b1e22c6c2d2641
+
+https://preview.redd.it/oxwqu4i59hcf1.png?width=591&format=png&auto=webp&s=1bf5325482d25d0a3af9b52057382ef2d5134b55
+
+https://preview.redd.it/rj0ay3i59hcf1.jpg?width=1512&format=pjpg&auto=webp&s=4a00aaf4546a9e10f8c498c41c3c6e9d44de6297
+
+",1,2025-07-12 10:21:53,https://www.reddit.com/r/MechanicAdvice/comments/1ly5v1u/2013_infiniti_jx35_cvt_still_hesitating_after_new/,https://www.reddit.com/r/MechanicAdvice/comments/1ly5v1u/2013_infiniti_jx35_cvt_still_hesitating_after_new/
+MechanicAdvice,Avalon Battery DRAINING... AAA says battery and alternator are healthy???,"We are stumped. Our 20026 Avalon will not start randomly.. and we will have to jump it a few times a week. AAA tested and said alternator and battery were both healthy.  
+  
+This even happened after a quick turn off while pumping gas!  
+  
+What can it be? no lights are left on, there is a bluetooth thing for connecting a phone for music or calls but that never gave us issues...  
+  
+we are seriously stumped.",1,2025-07-12 10:16:31,https://www.reddit.com/r/MechanicAdvice/comments/1ly5qfu/avalon_battery_draining_aaa_says_battery_and/,https://www.reddit.com/r/MechanicAdvice/comments/1ly5qfu/avalon_battery_draining_aaa_says_battery_and/
+MechanicAdvice,2015 Dodge Ram,"Long post 
+
+I have a 2015 Dodge Ram 2500 heavy duty hemi 6.4. Never had an issue with it(minus what I’ll mention-one thing)always had fluids checked/topped off in shop, always had oil changed every 5k miles in shop etc.
+
+It’s been cross country several times, it’s been all the way from as far south to as far north as you can get in the U.S, it’s hauled a huge camper, regular hauls a trailer etc. 
+
+Only issue I’ve ever had with the truck prior to now-I was driving and everything shutoff/stopped. By that I mean all lights went dark on dash and screen, my power steering went out, my gas pedal went out, and my brakes went out. That happened once before but it was after I accidentally hit the key with my knee. So I figured I had too many keys/attachments on my key ring. Both times I was on a back road going slow thankfully. It started right back up both times and never happened again nor caused any codes. Now, randomly I started having issues. I noticed my truck doesn’t have the power it used to, I have to be careful pulling out as it hesitates to go then the power will kick in all of the sudden, when I’m driving steadily it starts to almost bog down if that makes sense(and the truck begins to yank), upon pushing the gas(just taking off) I hear this “click click click” noise and then it stops until I let off the gas and push it again. Ontop of that, the last few days it’s been taking longer to start. It used to start right up as soon as the key turned, now it takes 2-3 seconds to start. The reason I’m posting is last night it completely didn’t want to go after a red light. The truck barely got up to 55, started yanking, then the engine light flashed and finally just stayed on. Never had a light on my dash ever.
+
+Only thing that has been different is I got gas from a different place than I usually would. Bad gas(not diesel)wouldn’t cause this right? My truck won’t even drive now, I live 30minutes from my closest garage, I’m on a fixed income(Veteran)and trying to see if someone can help me pin point ideas of what it could be. Thanks in advance ",1,2025-07-12 09:27:32,https://www.reddit.com/r/MechanicAdvice/comments/1ly4kxh/2015_dodge_ram/,https://www.reddit.com/r/MechanicAdvice/comments/1ly4kxh/2015_dodge_ram/
+MechanicAdvice,2012 Acura TL SH-AWD A/C issue please help!,,1,2025-07-12 09:11:00,/r/AcuraTL/comments/1ly46hu/2012_acura_tl_shawd_ac_issue_please_help/,https://www.reddit.com/r/MechanicAdvice/comments/1ly471c/2012_acura_tl_shawd_ac_issue_please_help/
+MechanicAdvice,02 Honda crv still pulling to the right after alignment,I had my right front axle replaced and since then my alignment has been off and pulling to the right. I got an alignment yesterday and it’s a bit better but still pulling to the right. I had a friend install brake pads and they’re grinding and making all kind of noise idk if that could cause alignment issues? ,0,2025-07-12 09:06:27,https://www.reddit.com/r/MechanicAdvice/comments/1ly435g/02_honda_crv_still_pulling_to_the_right_after/,https://www.reddit.com/r/MechanicAdvice/comments/1ly435g/02_honda_crv_still_pulling_to_the_right_after/
+MechanicAdvice,Please help,Started bike 2 weeks ago has some wired wiring issues from the guy I got it from put a battery on it and it started up after some starting fluid now it won’t start and just cranks? I was thinking spark plugs?,4,2025-07-12 08:54:08,https://v.redd.it/ulmoq9aitgcf1,https://www.reddit.com/r/MechanicAdvice/comments/1ly3sgj/please_help/
+MechanicAdvice,NEED HELP!! 99-06 GM,"I have a 2001 GMC Sierra 1500 5.3 and just did an e-fan conversion. I installed everything just how all the videos I've watched showed. I put one pin in the 42 slot and the other pin in the 33 slot and set the tune on HP Tuners, and the fans work great. But I'm having an issue. When driving for a while with the wire harness I bought, the breakers keep popping, and my truck starts to overheat. So I have to keep pulling over and reset the breakers for the fans. My question is, why do the breakers keep getting tripped? What did I do wrong, or do I need to get a different wire harness?",1,2025-07-12 08:43:26,https://www.reddit.com/r/MechanicAdvice/comments/1ly3jfw/need_help_9906_gm/,https://www.reddit.com/r/MechanicAdvice/comments/1ly3jfw/need_help_9906_gm/
+MechanicAdvice,Rear wheels are cupped,"For cupped rear wheels, is issue more caused by shocks or a bad alignment?",1,2025-07-12 08:30:50,https://www.reddit.com/r/MechanicAdvice/comments/1ly38gt/rear_wheels_are_cupped/,https://www.reddit.com/r/MechanicAdvice/comments/1ly38gt/rear_wheels_are_cupped/
+MechanicAdvice,Ex35 restart problem,"Hi i have a pretty huge issue especially now that it’s summer, My display screen does a perpetual restart while i’m driving and when it does this my ac cuts off and it turns on the fan has anybody run into a similar issue? if so it would be great if you could explain how you got what was the problem my friend says it could be a module.",1,2025-07-12 08:26:19,https://www.reddit.com/r/MechanicAdvice/comments/1ly34ki/ex35_restart_problem/,https://www.reddit.com/r/MechanicAdvice/comments/1ly34ki/ex35_restart_problem/
+MechanicAdvice,2011 Cadillac SRX 2.8T P0691,Okay I have a bit of an odd issue. I have a 2011 Cadillac SRX with the rare 2.8T in the shop at the moment and have replaced the water pump and thermostat to fix the leaking just to find that the cooling fan is inoperable. I have replaced the fan (was nearly impossible to find and we had to get a used one) which didn’t fix the issue. It could be the “new” fan I understand that. But this has now been a week long ordeal and I’m at a loss. Does anyone here have any experience with this motor and what the cause of this issue was for them when they ran into it. I’ve done extensive circuit testing for hours and cannot figure this out,1,2025-07-12 08:16:51,https://www.reddit.com/r/MechanicAdvice/comments/1ly2wv7/2011_cadillac_srx_28t_p0691/,https://www.reddit.com/r/MechanicAdvice/comments/1ly2wv7/2011_cadillac_srx_28t_p0691/
+MechanicAdvice,Audi Q3 MMI 2012 issue,"Hi all, I bought a 2012 Q3 yesterday, the MMI was working great and then as we were driving my partner said ‘does it close down’, I said I didn’t know so he tried and of course it closes and has a little button. When he lifted it back up, the MMI was black and we can’t figure out how to get it back on. We stopped and were out for 2 hours which we thought would kick start it but nothing. Any tips? 
+
+I checked the rules and wasn’t sure if this fell under Audio so please let me know if it does. ",1,2025-07-12 08:16:22,https://i.redd.it/x5v2nc4tmgcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1ly2wgw/audi_q3_mmi_2012_issue/
+MechanicAdvice,2016 F-250 left me stranded,"I was driving down the interstate when my truck flashed a check engine light, flashed the battery light, entered limp mode for a split second and then finally died. Of course, I had quite literally taken all the tools and things out of my truck to clean it that very morning. My buddy was able to get out to try to help me (and actually bring tools), we read that the battery voltage on each of my batteries was reading 8V. Ultimately we were unable to get my truck going, so I was forced to call for a tow. The Ford dealership was the closest option, I was exhausted, ready to be done, and just opted to send it there so I knew it would be safe. I now wish I had just gotten it towed to my house, but hindsight is 20/20 I guess.
+
+After I called them the next morning, they told me they wouldn’t be able to get my truck even seen for at least a week and when they are able to look at it it would be a $230 charge, plus another $490 just to put two new batteries in, not including paying the mechanics for their time. Now, I have never had to work on this truck but I am able to do some mechanic work myself plus have plenty of friends that 9/10 know what they are looking at.
+
+I am thinking it could potentially be a bad alternator, and I am thinking about going to put two new batteries in it at the dealership, driving it home, and working on it in my driveway. Is this a dumb decision? I believe it needs new batteries anyways, there is some corrosion around the right battery under the bar that holds it down. This would also give me a chance to use my own diagnostic tool and reach out to some local mechanics to support local. 
+
+*UPDATE*
+It was not the alternator. 
+
+I took two batteries and replaced them in the truck and it came alive just fine. 
+
+After trying to crank it up, the engine was trying to turn over but was not actually cranking up. This leads me to believe it is a fuel issue, however my batteries did need to be replaced so just good (or bad) timing I guess. Fingers crossed that it will be just something simple like a fuel filter. I had no other indications on my dash.",6,2025-07-12 07:51:12,https://www.reddit.com/r/MechanicAdvice/comments/1ly2b36/2016_f250_left_me_stranded/,https://www.reddit.com/r/MechanicAdvice/comments/1ly2b36/2016_f250_left_me_stranded/
+MechanicAdvice,Idle issue on cold starts - revs spike wildly and spluttering,"Any help much appreciated. Having a weird cold start issue - revs spike up and down for a few seconds and then at 0:08 there is 10 seconds of serious chugging/spluttering (misfire?) with engine shaking.  
+  
+After that it improves and by the time the 'choke' stops at 0:50 it's fine.  
+Hot starts/performance/economy are all excellent. Hot idle is 99% steady, just very slight movement.  
+  
+Possibly related issue (started happening same time) is that if I put Air Con on, engine sometimes just cuts out instantly when I depress the clutch to go to idle at the next stop. But it restarts easily and then all good again.  
+  
+Car is a 2013 Opel/GM Corsa VXR 1.6 turbo with a built engine/forged pistons.  
+  
+I already tried new battery/spark plugs/MAF and the coil pack is < 2 years old.  
+Any ideas what's going on? Thank you",1,2025-07-12 07:35:40,https://v.redd.it/qna9f5nzagcf1,https://www.reddit.com/r/MechanicAdvice/comments/1ly1y7c/idle_issue_on_cold_starts_revs_spike_wildly_and/
+MechanicAdvice,Please help!,I’ve been having some issues with my car ever since I replaced my intake manifold because it had a coolant leak. After that it started running rough after it warmed up and the shop said it was likely due to me having clogged up catalytic converters. I bought some new cats and when they got here I did feel like they were manufactured with poor quality just based on a few things I saw but went ahead and put them on and it did make the issue less noticeable but definitely still there. Might I add that I took the exhaust system completely off and drive around for a couple days and all issues seemed to go away. 5.4 triton with 4wd,1,2025-07-12 07:24:20,https://www.reddit.com/r/MechanicAdvice/comments/1ly1ovp/please_help/,https://www.reddit.com/r/MechanicAdvice/comments/1ly1ovp/please_help/
+MechanicAdvice,Check Engine Light + Error Code 16395 on VW Passat CC 1.8 TSI – Need Advice,"Hey everyone,
+
+A few days ago (3 days ago to be exact), the check engine light came on in my 2008 VW Passat CC 1.8 TSI. I scanned it and got the fault code **16395 / P0011 – ""Camshaft A (Intake): Retard Setpoint not Reached (Over-Advanced)""**.
+
+From what I’ve gathered, this usually points to issues with the **camshaft timing**, possibly caused by:
+
+* A **faulty camshaft adjuster**
+* Dirty or failing **oil control valve (OCV / N205)**
+* Low or dirty **engine oil**
+* Timing chain stretch or tensioner issues
+
+I’ve also recorded a **cold start** video of the engine if anyone is willing to give it a listen to see if it sounds okay or if it could point to something more specific.
+
+Has anyone here experienced the same fault code? What did you end up doing to fix it? I'm wondering:
+
+* Should I try changing the oil and filter first as a basic step?
+* Is it safe to keep driving like this for now?
+* What would be the priority in diagnosing this further before heading to a shop?
+
+Any help or advice would be really appreciated. I’d prefer to handle what I can myself before throwing it at a mechanic.
+
+Thanks in advance!
+
+https://reddit.com/link/1ly1jnm/video/gz7nlh2dcgcf1/player
+
+",1,2025-07-12 07:17:49,https://www.reddit.com/r/MechanicAdvice/comments/1ly1jnm/check_engine_light_error_code_16395_on_vw_passat/,https://www.reddit.com/r/MechanicAdvice/comments/1ly1jnm/check_engine_light_error_code_16395_on_vw_passat/
+MechanicAdvice,95 Nissan sometimes starts sometimes won’t,"95 Nissan Maxima it starts sometimes and then it won’t start again once I turned it off. I’ve replaced battery, starter alternator is good nothing same issue. When it doesn’t start everything turns on but the engine or actually starts. Any idea what it could be I’m thinking about just giving up, I’m thinking it could be the ignition. ",1,2025-07-12 06:42:52,https://v.redd.it/7v6t3sw16gcf1,https://www.reddit.com/r/MechanicAdvice/comments/1ly0s3g/95_nissan_sometimes_starts_sometimes_wont/
+MechanicAdvice,"Hi guys, i have a little seatbelt issue.",,4,2025-07-12 05:35:29,https://i.redd.it/78ze9q8pfubf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lxzeaa/hi_guys_i_have_a_little_seatbelt_issue/
+MechanicAdvice,Help identifying engine!,"Hi, so I have a 2014 Suburu XV Crosstrek and from what I know it has a 2.0 l fb20 engine. This may be a stupid question. My engine is blown and I can’t figure out if I have a pzev or non pzev engine. How would I find this out. I’m going to swap it myself as multiple quotes from the dealership and other independent shops have ran between 10-15k to replace the engine and that’s with a salvage and reman engine. I have all the tools in my shop to do it and general knowledge so shouldn’t be an issue but I can’t determine which engine I have. Thanks in advance.",1,2025-07-12 03:52:46,https://www.reddit.com/r/MechanicAdvice/comments/1lxxlpe/help_identifying_engine/,https://www.reddit.com/r/MechanicAdvice/comments/1lxxlpe/help_identifying_engine/
+MechanicAdvice,My car is suddenly really sluggish and low powered?,"I have a Hyundai i30 2009 diesel. I’ve had it for four years and in that time I’ve had a few issues with loads of white smoke coming out of the exhaust sometimes when I start it, I notice it happens a lot in really hot weather for some reason. Like the last couple days have been really hot in England and I noticed a lot of smoke the last couple days but the car ran fine as normal. But today I went to go shopping and the car seems really sluggish and low powered compared to normal and this has never happened before. I ended up turning around and going home instead of driving it incase it’s making it worse. 
+
+The car was written off a few months ago because someone reversed into me, the damage is still there mostly and I have a few other issues like the AC and there’s some work that needs doing, I’m reluctant to spend too much on this car since I’ve had it already for nearly 4 years and it is my first car, so I’m hoping whatever is wrong isn’t too bad. Does anyone here have any idea what it could be? And how much roughly it would cost to fix? I can’t get it to the garage until Tuesday either 
+
+
+Edited to add there’s no warning lights or anything on the dash ",3,2025-07-12 02:48:52,https://www.reddit.com/r/MechanicAdvice/comments/1lxwn1k/my_car_is_suddenly_really_sluggish_and_low_powered/,https://www.reddit.com/r/MechanicAdvice/comments/1lxwn1k/my_car_is_suddenly_really_sluggish_and_low_powered/
+MechanicAdvice,Car won’t start help,"Can anyone tell me what what this cable is? It's an O ring shaped at the end and is tightened onto the negative terminal on my car? 
+Went to start car the other day and dashboard light up but car died as soon as I tried to turn so am wondering if this could be part of issue 
+Any thoughts or advice? ",1,2025-07-12 02:30:03,https://www.reddit.com/r/MechanicAdvice/comments/1lxwd6z/car_wont_start_help/,https://www.reddit.com/r/MechanicAdvice/comments/1lxwd6z/car_wont_start_help/
+MechanicAdvice,Really weird electrical issues in 2001 Cadillac DeVille Hearse (converted by Superior),"> # Problem
+
+I replaced my battery on July 4th. I figured it was just an old battery.
+
+But now my battery is failing to start the car again. It read somewhat low, 12.38V, and wouldn't even give a clicking noise when turning the ignition. Interior lights, radio, dashboard lights all turned on as expected.
+
+The only thing which did not work as expected was the passenger door lock. It would not unlock with the fob or the door-mounted lock switches. All other doors locked and unlocked normally.
+
+I tried doing a parasitic draw test with a meter that I tested on a wall-plug DC charger and confirmed that it was working. I left the positive terminal connected, disconnected the negative cable, then placed the negative probe in the negative post-hole (this is a [weird battery where the posts screw in from the cables](https://www.oreillyauto.com/detail/c/premium/super-start-premium-standard-flooded-side-post-battery-group-size-79-840-cca-140-minute-rc/ssbo/79prmj)). I then touched the positive probe in the negative cable. This gave me a reading of 0 mA, which is clearly incorrect... yet that's the reading I got.
+
+So, I figured I'd give it a more basic test. I turned on an interior lightbulb under the floor of the hearse. This lightbulb has a loose switch which is not mounted well to any surface. That's just how I got the car and I've been doing a lot of other work so I haven't fixed that yet. (This will be relevant in a minute.)
+
+I left the door open so if the battery was connected, the light was on. If the battery was disconnected, the light would, of course, be off. My thought was, once I complete the circuit for the parasitic draw test using the multimeter, the light should turn back on again. Except that didn't happen. No matter where I touched in the battery post-hole or on the negative terminal, the reading stayed 0 mA and the light did not turn on. This is despite the fact that it will read *voltage* just fine, but not *amperage*.
+
+I will again mention that the meter is probably not the issue because it gave normal amperage readings on a DC charger plugged into the wall.
+
+So, I'm pretty thoroughly mystified at this point, and resolved to take the battery in for testing. But when I went to lock the car for the night, I noticed something odd - the passenger door side was responding to the key fob again. It would lock and unlock normally again.
+
+> # Tentative Diagnosis
+
+**This leads me to my tentative conclusion**: A loose / exposed wire in the back of the light switch came into contact with the metal housing for the light, which is in turn connected to the chassis by metal. My thought is that the battery has been slowly draining to ground this way. And somehow this short also affected the wiring / solenoid / whatever which unlocks the passenger door.
+
+After leaving the battery this way for a little bit, when I turned the ignition, it no longer made no sound. It still didn't start, but it clicked once or twice before stopping. Now the battery voltage is at 11.98 V so there's pretty much no chance it'll recover without being charged. I'm taking it into O'Reilly's tomorrow for testing, which also includes charging it.
+
+Does my conclusion (that the battery was draining due to the contact of light switch wires on metal) seem reasonable? Or is there some other explanation here?
+
+The only other thing that changed is that I recently connected the vent tubes for the hydrogen gas ports, which were (for some reason) disconnected on my old battery. If that tube is plugged, and the hydrogen gas isn't able to drain properly, maybe that could kill my battery? I don't know, and I also don't see why that tube would be plugged.
+
+I have no explanation as to why the parasitic draw test isn't working. Totally at a loss there.",1,2025-07-12 21:28:23,https://www.reddit.com/r/MechanicAdvice/comments/1lyjysl/really_weird_electrical_issues_in_2001_cadillac/,https://www.reddit.com/r/MechanicAdvice/comments/1lyjysl/really_weird_electrical_issues_in_2001_cadillac/
+MechanicAdvice,AC problems on 2016 Audi A3 e-tron,"AC works intermittently. Blows really cold when it works, but very warm air when it doesn't (much warmer than ambient outside air).
+
+Had it at Audi dealership twice where they charged me $200 for inspection and pressure check, but they never found a problem. I Really don't wanna go back to have them do the same thing again.
+
+The only identifiable thing for me who have no clue about engines is that the part in the pictures make a loud clicking sound every 2-3 seconds whenever the AC is not working and is quiet whenever it works.
+
+So my question is, what is this red thing, and could it be connected to my issues at all?",1,2025-07-12 13:08:47,https://www.reddit.com/gallery/1ly9sys,https://www.reddit.com/r/MechanicAdvice/comments/1ly9sys/ac_problems_on_2016_audi_a3_etron/
+MechanicAdvice,"2007 Silverado Classic Power Loss, No Start Questions","Hello All,  
+  
+I've been working on this problem on and off for months and need some help.  
+  
+Vehicle:  
+2007 Chevrolet Silverado 1500 Classic 4WD Ext Cab 143.5"" LT1 V8 - 210,000 mi  
+  
+Problem:  
+When it began, I would drive the vehicle like normal, park and turn it off (say to get gas), and then when I would turn the ignition, I'd hear a ""click/snap"" and the whole vehicle would die. No power (no clocks, lights, IP, nothing) and no more clicks or starter attempting to engage. I replaced the battery (because it was aging) and that solved the problem for a few days. Ultimately, this problem returned. Auxiliary power came on, turn ignition to hear a single ""click/snap"" and the whole system dies. Once the click happens there is no power to anything. I charged the battery and again the problem went away for another month or so before returning. Now, it has happened again. This time, charging the battery doesn't allow me to get auxiliary power back.  
+  
+Symptoms/Checks:  
+I began by checking all fuses related to the ignition system for continuity. Based on comments from the local NAPA, I was told it could be an arc which was shorting and that was the snap I heard, but to check other electrical components first. Battery and fuses were good; I pulled the starter solenoid and tested it which looked and sounded great. Here is the kicker, I couldn't directly test the starter relay with my equipment, but I could jump it to make sure the starter portion of the ignition circuit was working. Jumping the starter relay does not induce the starter to run. Plus, I read a clean 12.6 V at pin 30 of my relay which tells me I've got a good connection back to the battery. A possible idea is the harness between the relay and starter is questionable, but I haven't verified that.  
+  
+After realizing this I jumped to the ignition switch portion of the system. I pulled the ignition switch and tested continuity between all the pins and shims inside the switch, everything sounded good. Once I reassembled the switch, I tried to test the ignition with no luck. Here I started going around to find all my ground points and clean them up. During this process, (which I have yet to start cleaning) I returned to the key and turned it to find that the auxiliary power works again! I have no clue what changed to complete the circuit; however, I was short sighted and tried to turn the ignition which led to the fated ""click/snap"" and everything went away again. I should have left the auxiliary power on to pull a code but now I have to wait.  
+  
+At this point, I need to clean my grounds, verify voltage at the main battery cable leading to the starter from the relay, and then I think start testing other modules like the BCM (which I know plays into the ignition switch circuit but don't have a full ignition system schematic to know for sure). I've also been told when I have power again, to try turning the ignition late at night and look for a bright light from an arc from under the truck. I've been told this might help me locate a short. The problem seems to be between the ignition switch -starter relay-starter but I haven't been able to narrow it down yet.  
+  
+My goal is to diagnose the problem without outright replacing parts blind, but I'm beginning to run out of options. Any help figuring this out would be amazing.  
+  
+Thank you kindly",1,2025-07-12 07:56:27,https://www.reddit.com/r/MechanicAdvice/comments/1ly2fgh/2007_silverado_classic_power_loss_no_start/,https://www.reddit.com/r/MechanicAdvice/comments/1ly2fgh/2007_silverado_classic_power_loss_no_start/
+MechanicAdvice,2010 accord 2.4 engine knock,"Just drove my car parked it then engine immediately started knocking and the oil light came on. Shut car off immediately. I Found no residue by oil pan or on the street. Car has been a quart low once a few months ago with no knock, topped it off and drove 1000 miles great since. Car is a 2010 2.4 auto with 138k miles. Hoping not permanent engine damage. Last oil change was with inspection in January about 2500 miles ago. Would be ironic since I chose this car over a Camaro for engine reliability. Any idea what could cause this so suddenly I keep the car up to date on everything. Thank you!",1,2025-07-12 20:37:40,https://www.reddit.com/r/MechanicAdvice/comments/1lyj1sx/2010_accord_24_engine_knock/,https://www.reddit.com/r/MechanicAdvice/comments/1lyj1sx/2010_accord_24_engine_knock/
+MechanicAdvice,"What is this part called, and where's a good place to find it?","Year 2000 Mazda B3000, 2wd extended cab. The trim part warped and fell off, but I'm not sure what's it's actually called. Been looking through diagrams and parts books, but I can't find it. 
+Also, if anyone happens to know a reliable place for the B3000, I'd love to hear. Mostly just an old Ford Ranger.",1,2025-07-12 15:42:19,https://i.redd.it/zv4twtrduicf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyd89g/what_is_this_part_called_and_wheres_a_good_place/
+MechanicAdvice,mitsi 2008 2.2 diamond outlander issue,"hoping to find a bit of advise here on an issue with my 2.2 outlander which i believe is the ford engine.
+
+Car has been super reliable over the last 12 years but recently just stopped at a junction and wasn't able to get her started again, the value of the car is now very low so it doesn't make sense to put it into a garage and end up paying out more than the cars worth to have it repaired, so ideally i would diagnose myself and decide if worth repairing.
+
+I have tested the fuel pump which seems ok, it turns over and tried spraying break cleaner in the inlet and still wouldn't start. I have put a scanner on and it comes up with P1351 fault which seems to point at different things for different manufactures and suggests ignition system fault possibly the glow plugs on a Mitsubishi, which doesn't really explain why it wont start at all especially in the summer and the engine was running and hot when it stopped. This may just be an historical fault and nothing to do with it not starting.
+
+Unfortunately I'm not clued up to know if its possible to test the fuel pressure at the injectors or high pressure pump to know if there is a fuel issue or my other thought was perhaps a faulty immobilizer but surely that wouldn't have caused the engine to just stop, or maybe its an issue with the ECU.
+
+Any advise on how someone might tackle diagnosing an issue of this kind would be greatly appreciated as i don't want to give up on the old girl as she has been in the family for quite some time and although not much of a looker anymore mechanically and structurally she is very good and potentially plenty left to offer.",1,2025-07-12 15:41:19,https://www.reddit.com/r/MechanicAdvice/comments/1lyd7iz/mitsi_2008_22_diamond_outlander_issue/,https://www.reddit.com/r/MechanicAdvice/comments/1lyd7iz/mitsi_2008_22_diamond_outlander_issue/
+MechanicAdvice,Is this sound achievable on 91 octane?,"[https://www.youtube.com/watch?v=i3PHEcD\_wcs](https://www.youtube.com/watch?v=i3PHEcD_wcs)
+
+I didn't have the good sense to do something with my life that would allow me to answer this question autonomously so I'm inquiring within the automotive intelligentsia. I'm doing an initial investigation into the financial implications of a front-rear full suspension, manual, ""restomod"" 65-66 mustang fastback, and came across this video from autotopia, which has, as far as I'm concerned, an exhaust note that can best be described as an angry, orchestral cacophony of barely restrained violence. From what I could gather in the  video it's a 289 stroked out to 302, with > .600 lift cams, running 13:1 compression, that runs to 8,000 RPM. From what I have been able to garner from background research that type of compression and redline can't reliable be achieved with 91 octane (the highest I have widely available in my area of California). I do have access to 100 octane gas within a short drive if needed.
+
+My question for those far more knowledgeable is this: how to best achieve this engine sound? Can it be done on regular pump gas? Do I need 13:1 compression? Is my understanding of the sonic advantages inherent to small block ford engines with regards to high RPM accurate (something about a short stroke making higher RPMs easier to achieve)? Am I an idiot for even contemplating such an endeavor?
+
+My sincerest gratitude for your assistance. ",1,2025-07-12 15:30:20,https://www.reddit.com/r/MechanicAdvice/comments/1lycyvn/is_this_sound_achievable_on_91_octane/,https://www.reddit.com/r/MechanicAdvice/comments/1lycyvn/is_this_sound_achievable_on_91_octane/
+MechanicAdvice,Loud rattling/grinding noises from engine for first few seconds when starting from cold,"Hello.
+
+I have a 2006 KIA Sedona EX, which I bought new when it came out. 225000 KMs. It still runs very reliably. I am actually quite impressed how well built this thing is.
+
+However, it is also showing its age, and there are issues that aren't affecting it's continued use as family van. For example, the engine leaks oil from probably every nook and cranny so I have to top it up every once in a while. The mechanic said that given the age of vehicle, and the cost to diagnose and fix, just accept it as part of owning an old van. So, I have. LOL
+
+**What brings me to you fine folks for advice** is an issue that has started to bother more and more every day. **This issue started about 3 or so years ago**. Initially, it was sporadic and will only happen once in a while, and then it started to get more regular, and now for about 6-8 months it happens almost every time the van is started from cold.
+
+**Here is the issue:** When the van is started from cold (for example: parked overnight), there are loud rattling/cranking/grinding noises from engine for the first few (\~5 or so) seconds, which go away, and then the engine runs smoothly and quietly like nothing's wrong. Chances of these noises coming up when engine is started from ""hot"" (for example, starting after coming out of a store, etc.) are very low. They still happen but only once in a blue moon when starting from hot and go away very quickly and are also not as loud and scary. I showed it to two mechanics and they both had different guesses such as timing belt, oil pump, etc. But none of them advised to have it opened and fixed saying that the van is too old to justify such expensive diagnosis and repair.
+
+Any tips or guesses as to what might be wrong? Is the van taking its last breaths?",1,2025-07-12 11:45:37,https://www.reddit.com/r/MechanicAdvice/comments/1ly7vfo/loud_rattlinggrinding_noises_from_engine_for/,https://www.reddit.com/r/MechanicAdvice/comments/1ly7vfo/loud_rattlinggrinding_noises_from_engine_for/
+MechanicAdvice,2016 Kia Forte one single click when you turn the key but if you bypass the starter relay it turns over but wont start,Installed a new battery and plugs trying to fix this(needed them anyways). Probably a starter next. Just wanted to see if anybody had any other ideas on what it could be. Everything was fine yesterday.,1,2025-07-12 20:47:04,https://www.reddit.com/r/MechanicAdvice/comments/1lyj7vz/2016_kia_forte_one_single_click_when_you_turn_the/,https://www.reddit.com/r/MechanicAdvice/comments/1lyj7vz/2016_kia_forte_one_single_click_when_you_turn_the/
+MechanicAdvice,Works sometimes?,"I have a 2002 mercury sable gs that I have as of right now fixed the fuel pump and brake line on. Long story short, I ended up stopping by bumping it into a wall when the brakes went out on my way to work and at the same time put the car into park from drive.  (yeah, yikes) didn't make the best sound.
+
+My speedometer and rpm gauge will work sometimes. Like, i will drive it to work, and they won't be on. Then, by the time I get off and start my car, they work on the way home or vice versa. Same thing for the odometer and temp gauge. What kind of power issue is this? I'm not sure if there is a speed sensor issue or a power issue because I got a code for (keep power alive voltage to low) but the readings on my alternator output are fine, im only unsure if it is a speed sensor issue because my transmission light is on after my mishap and i know they csn be related. Separate note my fuel pump gauge is stuck all the way up after I replaced the fuel pump, ended up getting a second fuel pump just in case and returning the other. ( the float is not stuck in the up position) I mention this because I'm unsure if they are related.
+
+Can anyone tell me a good place to start? I'm only 18 and don't have a lot of car experience. But I would love to be able to diagnose it myself. I just don't have the most time right now to diagnose it, and I haven't found much to be helpful elsewhere on the internet. So any information would be very helpful :)",1,2025-07-12 17:36:30,https://www.reddit.com/r/MechanicAdvice/comments/1lyflkf/works_sometimes/,https://www.reddit.com/r/MechanicAdvice/comments/1lyflkf/works_sometimes/
+MechanicAdvice,"1973 Dodge D200 keeps dying, no symptoms","At a total loss. We've been towed home 3 times this week, including today because she just keeps dying while running with no other symptoms. 
+
+Everything I've fixed has gotten her up and running again so I keep thinking I've fixed the problem. She starts, runs and drives perfectly for like a day or two and then will die again and won't start back up. It's not seemingly a fuel issue as both float bowls are still right on, so fuel is getting to the carb. It seems to be electrical:
+
+The first time, I swapped the ballast resister and rotor. That got her running. Yesterday, after she died, I found a bad connection to the ignition module thing that connects to the distributor. Fixed that and she fired right up. I assumed I had found the problem so I took her out today, and she got stuck on the highway. 
+
+Ballast resister is new, wiring all looks fine now, I seem to be getting proper voltage everywhere, the ignition coil is pretty new and is an MSD blaster.
+
+My last guess is maybe the distributor bushings are cutting out when they are getting hot. Otherwise, I'm at a total loss what to check from here? 
+
+Thanks! ",1,2025-07-12 16:44:26,https://i.redd.it/ovslj2bp4jcf1.jpeg,https://www.reddit.com/r/MechanicAdvice/comments/1lyejq5/1973_dodge_d200_keeps_dying_no_symptoms/
+MechanicAdvice,mitsi 2008 2.2 diamond outlander issue,"hoping to find a bit of advise here on an issue with my 2.2 outlander which i believe is the ford engine.
+
+Car has been super reliable over the last 12 years but recently just stopped at a junction and wasn't able to get her started again, the value of the car is now very low so it doesn't make sense to put it into a garage and end up paying out more than the cars worth to have it repaired, so ideally i would diagnose myself and decide if worth repairing.
+
+I have tested the fuel pump which seems ok, it turns over and tried spraying break cleaner in the inlet and still wouldn't start. I have put a scanner on and it comes up with P1351 fault which seems to point at different things for different manufactures and suggests ignition system fault possibly the glow plugs on a Mitsubishi, which doesn't really explain why it wont start at all especially in the summer and the engine was running and hot when it stopped. This may just be an historical fault and nothing to do with it not starting.
+
+Unfortunately I'm not clued up to know if its possible to test the fuel pressure at the injectors or high pressure pump to know if there is a fuel issue or my other thought was perhaps a faulty immobilizer but surely that wouldn't have caused the engine to just stop, or maybe its an issue with the ECU.
+
+Any advise on how someone might tackle diagnosing an issue of this kind would be greatly appreciated as i don't want to give up on the old girl as she has been in the family for quite some time and although not much of a looker anymore mechanically and structurally she is very good and potentially plenty left to offer.",1,2025-07-12 15:41:19,https://www.reddit.com/r/MechanicAdvice/comments/1lyd7iz/mitsi_2008_22_diamond_outlander_issue/,https://www.reddit.com/r/MechanicAdvice/comments/1lyd7iz/mitsi_2008_22_diamond_outlander_issue/
+MechanicAdvice,Help please,"Hey guyz i just did valve gasket replacement pn 2004 acura tl , everything is put together now there is no lights on dash and car just cranks but wont start , what is the issue here i couldn’t find any ground disconnected",1,2025-07-12 13:23:33,https://www.reddit.com/r/MechanicAdvice/comments/1lya5cv/help_please/,https://www.reddit.com/r/MechanicAdvice/comments/1lya5cv/help_please/
+MechanicAdvice,"1994 GMC Suburban k1500 turns, tries to start, but stops","So I am at a loss with this issue.
+
+About 3 months back I started a job replacing the gaskets on my truck, and it became half a rebuild. I did the valve seals, the head gaskets, the whole bit. I got it back together, and it wont start.
+
+The engine turns, it tries, then it dies. It acts like its getting too much air. If I give it gas, it revs, dies down from air dump.
+
+I replaced the idle air control already. Rebuilt the TBI. 
+
+I am at a loss for what to do other than just sell it at this point.
+
+Video of the problem
+
+No starty https://imgur.com/gallery/NTPYHRu
+
+",1,2025-07-12 12:51:28,https://www.reddit.com/r/MechanicAdvice/comments/1ly9eq3/1994_gmc_suburban_k1500_turns_tries_to_start_but/,https://www.reddit.com/r/MechanicAdvice/comments/1ly9eq3/1994_gmc_suburban_k1500_turns_tries_to_start_but/
+MechanicAdvice,"Rapid clicking, sentra wont start.","Just replaced the starter on my 06 sentra trying to sell it. Its been sitting for a little bit but knew it was the starter bc of the hammer trick. Fresh oil change, bout 4 Gal fresh gas w sea foam in half and half. It wanted to start I could tell but now all it does is rapid clicking.
+
+Upon research bad battery is usually the culprit so I put i lt on my trickle charger and it says its about 11V shouldn't it still start tho? Im gonna let it charge and go from there.
+
+ Im just scared I may have damaged the engine by not priming the gas right..Or the alternator.. All it does is rapid clicking sounds. Just lookin for 2 cents. Thanks!",1,2025-07-12 12:50:08,https://www.reddit.com/r/MechanicAdvice/comments/1ly9dnd/rapid_clicking_sentra_wont_start/,https://www.reddit.com/r/MechanicAdvice/comments/1ly9dnd/rapid_clicking_sentra_wont_start/
+MechanicAdvice,Man Le 8.180 Truck problem,"hello everyone,so my uncle has this 7,5ton truck,Man Le 8.180 from 2004,he left it for 2 years,after these two years,i started it and tried to move it,but when i tried to put it in reverse it wont go in reverse and would make the sound like the clutch isnt pressed,even tough it is,the clutch pedal seems soft,i tried bleeding it,no response,and even in forward low gears it wont go,only in big gears ,5 and 6th,but i consider thats because the 1,2,3,4 gears in the gearbox have much more torque to them,what would the problem be,mention the clutch is a simple hydraulic liquid clutch",1,2025-07-12 05:03:57,https://www.reddit.com/r/MechanicAdvice/comments/1lxyswu/man_le_8180_truck_problem/,https://www.reddit.com/r/MechanicAdvice/comments/1lxyswu/man_le_8180_truck_problem/
