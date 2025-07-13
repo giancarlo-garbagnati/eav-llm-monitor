@@ -61,7 +61,7 @@ if __name__ == "__main__":
     subreddits += ['CarRepair', 'autorepair', 'MechanicAdvice']
     subreddits += ['DIYAutoRepair', 'AutoMechanics']
     
-    search_terms = ['broke down', 'issue', 'charging problem', 'reliability', 'won’t start']
+    search_terms = ['broke down', 'issue', 'charging problem', 'reliability', "won't start"]
     
     df = scrape_reddit(subreddits, search_terms, last_update = find_latest_reddit_timestamp())
     

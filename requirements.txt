@@ -2,3 +2,5 @@ pandas
 selenium
 undetected-chromedriver
 praw
+openai
+pydantic
