@@ -36,7 +36,7 @@ def preprocess_reddit_raw(csvs):
             preprocessed = pd.concat([preprocessed, df])
 
     if data_processed:
-        save_uri = paths.get_data_raw_path() / max(csvs).replace('raw', 'preprocessed')
+        save_uri = paths.get_data_processed_path() / max(csvs).replace('raw', 'preprocessed')
         preprocessed.to_csv(save_uri, index=False)
     
     return data_processed
