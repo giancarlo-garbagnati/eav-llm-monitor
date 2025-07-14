@@ -37,12 +37,12 @@ This project is designed to simulate a real-world workflow where large language 
 
 ## 📁 Project Structure
 
-eav-llm-monitor/
-├── data/                # Raw and processed CSVs
-├── notebooks/           # Dev notebooks for exploration
-├── src/
-│   ├── scrape/          # Reddit scraping tools
-│   ├── preprocess/      # Text cleanup and prep
-│   ├── llm/             # Prompting + classification
-│   ├── utils/           # Paths, I/O, credentials
-│   └── main_pipeline.py # End-to-end execution
+eav-llm-monitor/  
+├── data/                # Raw and processed CSVs  
+├── notebooks/           # Dev notebooks for exploration  
+├── src/  
+│   ├── scrape/          # Reddit scraping tools  
+│   ├── preprocess/      # Text cleanup and prep  
+│   ├── llm/             # Prompting + classification  
+│   ├── utils/           # Paths, I/O, credentials  
+│   └── main_pipeline.py # End-to-end execution  
