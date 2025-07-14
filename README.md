@@ -87,5 +87,5 @@ This will:
 * Include sample outputs and structured prompt testing
 
 ## ✍️ Author
-Giancarlo Garbagnati
+Giancarlo Garbagnati  
 Data Analyst/Engineer with a passion for LLM workflows and real-world reliability use cases.
