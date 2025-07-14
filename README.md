@@ -46,3 +46,46 @@ eav-llm-monitor/
 │   ├── llm/             # Prompting + classification  
 │   ├── utils/           # Paths, I/O, credentials  
 │   └── main_pipeline.py # End-to-end execution  
+
+---
+
+## ⚙️ How to Run  
+1. Install Requirements  
+``` bash
+pip install -r requirements.txt
+```
+  
+2. Set Up Credentials  
+Create src/utils/reddit_creds.json and src/utils/openai_creds.json (not tracked by Git) with your Reddit and OpenAI keys:  
+
+```json
+{
+  "REDDIT_CLIENT_ID": "xxx",
+  "REDDIT_SECRET": "xxx",
+  "REDDIT_USER_AGENT": "eav-monitor/0.1"
+}
+{
+  "OPENAI_API_KEY": "xxx"
+}
+```
+
+3. (Eventually, WIP) Run the Full Pipeline
+``` bash
+python src/main_pipeline.py
+```
+
+This will:
+* Scrape new Reddit posts
+* Preprocess and clean the text
+* Classify with GPT (based on instructions.json)
+* Save to data/processed/
+
+## 🧩 What's Next
+* Add Twitter scraping using Selenium (with login/session handling)
+* Build a dashboard for weekly issue trends
+* Summarize trends over time or by system
+* Include sample outputs and structured prompt testing
+
+## ✍️ Author
+Giancarlo Garbagnati
+Data Analyst/Engineer with a passion for LLM workflows and real-world reliability use cases.
